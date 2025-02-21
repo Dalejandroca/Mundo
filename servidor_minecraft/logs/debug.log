@@ -7225,3 +7225,113 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Feb2025 23:43:03.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ay dios mio
 [21Feb2025 23:43:13.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> perdi mi armadura mis armas y media casa
 [21Feb2025 23:43:15.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MandyXMaster687> hay dios mio clarence
+[21Feb2025 23:43:19.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> y una mochila llena
+[21Feb2025 23:43:23.050] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.8 and blood value 5 for entity samurai_dynasty:kawauso
+[21Feb2025 23:43:24.349] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2051ms or 41 ticks
+[21Feb2025 23:43:26.797] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[21Feb2025 23:43:40.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> *emoji llorando*
+[21Feb2025 23:43:49.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MandyXMaster687> X2
+[21Feb2025 23:44:01.882] [Worker-Main-12/DEBUG] [mixin/]: Mixing IMixinJigsawPlacement from witherstormmod.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[21Feb2025 23:44:01.883] [Worker-Main-12/DEBUG] [mixin/]: Renaming @Invoker method invokeAddPieces(Lnet/minecraft/world/level/levelgen/RandomState;IZLnet/minecraft/world/level/chunk/ChunkGenerator;Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplateManager;Lnet/minecraft/world/level/LevelHeightAccessor;Lnet/minecraft/util/RandomSource;Lnet/minecraft/core/Registry;Lnet/minecraft/world/level/levelgen/structure/PoolElementStructurePiece;Ljava/util/List;Lnet/minecraft/world/phys/shapes/VoxelShape;)V to invokeAddPieces_$md$14a264$0 in witherstormmod.mixins.json:IMixinJigsawPlacement
+[21Feb2025 23:44:01.917] [Worker-Main-12/DEBUG] [mixin/]: Mixing world.NoiseChunkAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[21Feb2025 23:44:01.917] [Worker-Main-12/DEBUG] [mixin/]: Mixing world.NoiseChunkMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[21Feb2025 23:44:01.918] [Worker-Main-12/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$1()Lnet/minecraft/world/level/biome/Climate$Sampler; to md14a264$lambda$injectWrapNew$1$0 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin
+[21Feb2025 23:44:01.918] [Worker-Main-12/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$0()Lnet/minecraft/world/level/biome/BiomeSource; to md14a264$lambda$injectWrapNew$0$1 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin
+[21Feb2025 23:44:02.030] [Worker-Main-12/DEBUG] [mixin/]: Mixing IMixinStructurePiecesBuilder from witherstormmod.mixins.json into net.minecraft.world.level.levelgen.structure.pieces.StructurePiecesBuilder
+[21Feb2025 23:44:02.215] [Worker-Main-12/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[21Feb2025 23:44:02.217] [Worker-Main-12/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[21Feb2025 23:44:02.814] [Worker-Main-4/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Feb2025 23:44:02.814] [Worker-Main-4/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from the_bumblezone-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Feb2025 23:44:02.814] [Worker-Main-4/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Feb2025 23:44:02.814] [Worker-Main-4/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[21Feb2025 23:44:03.027] [Worker-Main-12/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[21Feb2025 23:44:03.028] [Worker-Main-12/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[21Feb2025 23:44:03.028] [Worker-Main-12/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[21Feb2025 23:44:03.028] [Worker-Main-12/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[21Feb2025 23:44:03.032] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[21Feb2025 23:44:03.032] [Worker-Main-12/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[21Feb2025 23:44:04.826] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 5421ms or 108 ticks
+[21Feb2025 23:44:04.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4418ms or 88 ticks behind
+[21Feb2025 23:44:05.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> usa de nuevo el comando
+[21Feb2025 23:44:21.565] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2122ms or 42 ticks
+[21Feb2025 23:44:25.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5837ms or 116 ticks behind
+[21Feb2025 23:44:25.932] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:blue_jay
+[21Feb2025 23:44:32.442] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.94 and blood value 0 for entity alexsmobs:moose
+[21Feb2025 23:44:32.446] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexsmobs:tiger
+[21Feb2025 23:44:36.582] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.87 and blood value 13 for entity alexsmobs:snow_leopard
+[21Feb2025 23:44:36.985] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2034ms or 40 ticks
+[21Feb2025 23:44:41.616] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexsmobs:tiger
+[21Feb2025 23:44:41.616] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexsmobs:tiger
+[21Feb2025 23:44:44.419] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.04 and blood value 7 for entity alexsmobs:froststalker
+[21Feb2025 23:44:44.419] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.04 and blood value 7 for entity alexsmobs:froststalker
+[21Feb2025 23:44:44.419] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.04 and blood value 7 for entity alexsmobs:froststalker
+[21Feb2025 23:44:47.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6736ms or 134 ticks behind
+[21Feb2025 23:44:53.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> perdi mi peto con reparacion y proteccion 4
+[21Feb2025 23:44:56.549] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2058ms or 41 ticks
+[21Feb2025 23:45:01.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 23:45:01.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 23:45:01.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> me voy a meter un palo por el recto
+[21Feb2025 23:45:12.956] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2053ms or 41 ticks
+[21Feb2025 23:45:20.897] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 9.2 and blood value 15 for entity alexsmobs:tusklin
+[21Feb2025 23:45:28.636] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2189ms or 43 ticks
+[21Feb2025 23:45:30.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27701ms or 554 ticks behind
+[21Feb2025 23:45:50.129] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.8 and blood value 5 for entity samurai_dynasty:komainu
+[21Feb2025 23:45:50.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5341ms or 106 ticks behind
+[21Feb2025 23:46:03.137] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2091ms or 41 ticks
+[21Feb2025 23:46:08.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3652ms or 73 ticks behind
+[21Feb2025 23:46:26.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2365ms or 47 ticks behind
+[21Feb2025 23:46:50.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[21Feb2025 23:47:09.944] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2022ms or 40 ticks
+[21Feb2025 23:47:15.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21Feb2025 23:47:21.216] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[21Feb2025 23:47:21.217] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[21Feb2025 23:47:21.217] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[21Feb2025 23:47:32.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2600ms or 52 ticks behind
+[21Feb2025 23:47:50.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3174ms or 63 ticks behind
+[21Feb2025 23:48:38.324] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[21Feb2025 23:48:54.510] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21Feb2025 23:49:08.549] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2055ms or 41 ticks
+[21Feb2025 23:49:16.164] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[21Feb2025 23:49:20.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21Feb2025 23:49:25.683] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[21Feb2025 23:49:53.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[21Feb2025 23:50:10.099] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 24.06 and blood value 0 for entity alexscaves:tremorsaurus
+[21Feb2025 23:50:12.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[21Feb2025 23:50:12.416] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2042ms or 40 ticks
+[21Feb2025 23:50:30.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3147ms or 62 ticks behind
+[21Feb2025 23:50:51.766] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[21Feb2025 23:50:57.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 23:50:57.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 23:50:57.234] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[21Feb2025 23:50:57.273] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2466ms or 49 ticks
+[21Feb2025 23:51:10.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3878ms or 77 ticks behind
+[21Feb2025 23:51:18.882] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[21Feb2025 23:51:29.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3487ms or 69 ticks behind
+[21Feb2025 23:51:48.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4164ms or 83 ticks behind
+[21Feb2025 23:51:55.011] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[21Feb2025 23:52:05.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2289ms or 45 ticks behind
+[21Feb2025 23:52:15.769] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2025ms or 40 ticks
+[21Feb2025 23:52:23.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3226ms or 64 ticks behind
+[21Feb2025 23:52:34.969] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[21Feb2025 23:52:42.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4129ms or 82 ticks behind
+[21Feb2025 23:52:50.341] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[21Feb2025 23:53:01.080] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2048ms or 40 ticks
+[21Feb2025 23:53:01.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3993ms or 79 ticks behind
+[21Feb2025 23:53:21.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5154ms or 103 ticks behind
+[21Feb2025 23:53:21.967] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2039ms or 40 ticks
+[21Feb2025 23:53:39.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2301ms or 46 ticks behind
+[21Feb2025 23:53:56.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2804ms or 56 ticks behind
+[21Feb2025 23:54:14.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2381ms or 47 ticks behind
+[21Feb2025 23:54:31.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2483ms or 49 ticks behind
+[21Feb2025 23:54:40.726] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2051ms or 41 ticks
+[21Feb2025 23:54:45.476] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[21Feb2025 23:54:49.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2767ms or 55 ticks behind
+[21Feb2025 23:54:56.115] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[21Feb2025 23:55:07.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2989ms or 59 ticks behind
+[21Feb2025 23:55:17.416] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[21Feb2025 23:55:24.838] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2379ms or 47 ticks behind
+[21Feb2025 23:55:39.444] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[21Feb2025 23:55:44.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4443ms or 88 ticks behind
+[21Feb2025 23:56:03.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3963ms or 79 ticks behind
+[21Feb2025 23:56:05.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel has made the advancement [Hunt and Gather]
+[21Feb2025 23:56:22.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4140ms or 82 ticks behind
