@@ -1119,3 +1119,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Feb2025 20:59:59.877] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MandyXMaster687 (18)
 [22Feb2025 20:59:59.878] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MandyXMaster687
 [22Feb2025 21:01:42.942] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2091ms or 41 ticks
+[22Feb2025 21:06:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> wd
+[22Feb2025 21:12:04.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Teleported Dalej to MandyXMaster687]
+[22Feb2025 21:15:19.722] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2781ms or 55 ticks
+[22Feb2025 21:15:27.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[22Feb2025 21:15:37.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Teleported MandyXMaster687 to Dalej]
