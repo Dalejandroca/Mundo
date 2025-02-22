@@ -15614,3 +15614,30 @@ java.lang.Throwable: null
 [22Feb2025 08:11:41.336] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Denji has new faction level vampirism:vampire 4
 [22Feb2025 08:12:51.647] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Feb2025 08:12:51.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 08:17:46.555] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.68 and blood value 15 for entity alexscaves:subterranodon
+[22Feb2025 08:17:46.711] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.68 and blood value 15 for entity alexscaves:subterranodon
+[22Feb2025 08:17:46.712] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.68 and blood value 15 for entity alexscaves:subterranodon
+[22Feb2025 08:17:46.712] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 41.43 and blood value 0 for entity alexscaves:relicheirus
+[22Feb2025 08:17:46.715] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.68 and blood value 15 for entity alexscaves:subterranodon
+[22Feb2025 08:17:46.836] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 13.22 and blood value 15 for entity alexscaves:grottoceratops
+[22Feb2025 08:17:47.898] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.68 and blood value 15 for entity alexscaves:subterranodon
+[22Feb2025 08:17:48.506] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 13.22 and blood value 15 for entity alexscaves:grottoceratops
+[22Feb2025 08:17:48.907] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 13.22 and blood value 15 for entity alexscaves:grottoceratops
+[22Feb2025 08:17:51.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 08:17:51.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 08:17:54.731] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2388ms or 47 ticks
+[22Feb2025 08:18:05.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22Feb2025 08:18:24.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3927ms or 78 ticks behind
+[22Feb2025 08:19:02.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji moved too quickly! -10.997730546563389,12.0,-80.60597347840633
+[22Feb2025 08:19:38.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel has made the advancement [Diamonds!]
+[22Feb2025 08:22:57.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 08:22:57.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 08:26:45.499] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blight 1: [dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06]
+[22Feb2025 08:27:57.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 08:27:57.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 08:30:38.368] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2396ms or 47 ticks
+[22Feb2025 08:30:42.016] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.04 and blood value 7 for entity alexsmobs:froststalker
+[22Feb2025 08:30:42.016] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.04 and blood value 7 for entity alexsmobs:froststalker
+[22Feb2025 08:32:08.227] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2023ms or 40 ticks
+[22Feb2025 08:32:58.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 08:32:58.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
