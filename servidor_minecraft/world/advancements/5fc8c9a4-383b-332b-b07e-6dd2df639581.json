@@ -2352,6 +2352,7 @@
     "criteria": {
       "cooked_porkchop": "2025-02-15 06:34:09 +0000",
       "chicken": "2025-02-08 07:53:29 +0000",
+      "cooked_mutton": "2025-02-22 06:25:25 +0000",
       "cooked_beef": "2025-02-15 06:17:56 +0000",
       "baked_potato": "2025-02-08 06:01:35 +0000",
       "porkchop": "2025-02-08 07:54:09 +0000",
@@ -2833,6 +2834,7 @@
       "minecraft:skeleton": "2025-02-15 06:58:48 +0000",
       "minecraft:spider": "2025-02-08 07:00:00 +0000",
       "minecraft:creeper": "2025-02-08 06:02:23 +0000",
+      "minecraft:enderman": "2025-02-22 06:21:34 +0000",
       "minecraft:zombie": "2025-02-08 06:57:47 +0000"
     },
     "done": false
@@ -7850,6 +7852,60 @@
   "call_of_yucutan:get_burnt_by_light": {
     "criteria": {
       "get_burnt_by_light_0": "2025-02-22 06:03:09 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:interact_with_mirror": {
+    "criteria": {
+      "interact_with_mirror_0": "2025-02-22 06:25:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-22 06:22:08 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/fried_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-22 06:22:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-02-22 06:21:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-02-22 06:21:14 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-02-22 06:21:35 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/dark_iron": {
+    "criteria": {
+      "dark_iron": "2025-02-22 06:17:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-02-22 06:21:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-22 06:22:08 +0000"
     },
     "done": true
   },
