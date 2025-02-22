@@ -10162,5 +10162,17 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/hunter/pure_blood1": {
+    "criteria": {
+      "has_pure_blood": "2025-02-22 21:35:38 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood3": {
+    "criteria": {
+      "has_pure_blood": "2025-02-22 21:46:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
