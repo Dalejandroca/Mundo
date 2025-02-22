@@ -7259,9 +7259,10 @@
   },
   "vampirism:vampire/sniped": {
     "criteria": {
-      "main": "2025-02-02 07:23:12 +0000"
+      "main": "2025-02-02 07:23:12 +0000",
+      "flower": "2025-02-22 07:03:47 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/become_vampire": {
     "criteria": {
