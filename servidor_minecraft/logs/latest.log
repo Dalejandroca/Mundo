@@ -1194,3 +1194,76 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Feb2025 22:27:32.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [22Feb2025 22:27:37.884] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2011ms or 40 ticks
 [22Feb2025 22:27:53.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[22Feb2025 22:28:12.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3862ms or 77 ticks behind
+[22Feb2025 22:28:47.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[22Feb2025 22:29:22.277] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2021ms or 40 ticks
+[22Feb2025 22:29:22.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[22Feb2025 22:31:24.826] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2061ms or 41 ticks
+[22Feb2025 22:32:13.431] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.144.215.237:32899] logged in with entity id 53551 at (979.7811177827047, -27.0, 15.862676907071712)
+[22Feb2025 22:32:13.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[22Feb2025 22:32:13.453] [Server thread/INFO] [Jade/]: Syncing config to Asriel (2fa8843a-67ac-3a12-937e-775dc123023f)
+[22Feb2025 22:32:14.815] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Asriel (18)
+[22Feb2025 22:32:14.815] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Asriel
+[22Feb2025 22:32:43.521] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Timed out
+[22Feb2025 22:32:43.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[22Feb2025 22:32:43.522] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Asriel
+[22Feb2025 22:33:26.573] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.144.215.237:42995] logged in with entity id 54484 at (979.7811177827047, -27.0, 15.862676907071712)
+[22Feb2025 22:33:26.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[22Feb2025 22:33:26.592] [Server thread/INFO] [Jade/]: Syncing config to Asriel (2fa8843a-67ac-3a12-937e-775dc123023f)
+[22Feb2025 22:33:27.507] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Asriel (18)
+[22Feb2025 22:33:27.508] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Asriel
+[22Feb2025 22:33:27.513] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2872ms or 57 ticks
+[22Feb2025 22:33:48.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> partete a la mitad que de eso se trata
+[22Feb2025 22:33:53.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[22Feb2025 22:33:56.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Timed out
+[22Feb2025 22:33:56.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[22Feb2025 22:33:56.673] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Asriel
+[22Feb2025 22:34:34.524] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.163.171.249:33667] logged in with entity id 55238 at (979.7811177827047, -27.0, 15.862676907071712)
+[22Feb2025 22:34:34.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[22Feb2025 22:34:34.540] [Server thread/INFO] [Jade/]: Syncing config to Asriel (2fa8843a-67ac-3a12-937e-775dc123023f)
+[22Feb2025 22:34:35.335] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Asriel (18)
+[22Feb2025 22:34:35.336] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Asriel
+[22Feb2025 22:34:35.337] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2095ms or 41 ticks
+[22Feb2025 22:35:04.645] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Timed out
+[22Feb2025 22:35:04.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[22Feb2025 22:35:04.646] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Asriel
+[22Feb2025 22:35:52.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.144.215.237:52463] logged in with entity id 56309 at (979.7811177827047, -27.0, 15.862676907071712)
+[22Feb2025 22:35:52.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[22Feb2025 22:35:52.444] [Server thread/INFO] [Jade/]: Syncing config to Asriel (2fa8843a-67ac-3a12-937e-775dc123023f)
+[22Feb2025 22:35:52.969] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Asriel (18)
+[22Feb2025 22:35:52.970] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Asriel
+[22Feb2025 22:35:58.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej was slain by Marcus Walker
+[22Feb2025 22:36:07.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> partete
+[22Feb2025 22:36:07.651] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2090ms or 41 ticks
+[22Feb2025 22:36:19.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> puti
+[22Feb2025 22:36:28.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[22Feb2025 22:36:29.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> armando o david, cualquiera
+[22Feb2025 22:36:44.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> el comando pa encontrar el bosque de los hombres lobo
+[22Feb2025 22:36:47.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> y un waystone
+[22Feb2025 22:37:04.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MandyXMaster687> palabras magicas?
+[22Feb2025 22:37:07.815] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[22Feb2025 22:37:12.041] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2015ms or 40 ticks
+[22Feb2025 22:37:22.710] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Timed out
+[22Feb2025 22:37:22.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[22Feb2025 22:37:22.711] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Asriel
+[22Feb2025 22:42:34.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Teleported Dalej to MandyXMaster687]
+[22Feb2025 22:44:43.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Teleported Dalej to MandyXMaster687]
+[22Feb2025 22:44:52.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has made the advancement [Sniped!]
+[22Feb2025 22:44:52.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 stood in Dalej's dragon breath
+[22Feb2025 22:45:00.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Teleported MandyXMaster687 to Dalej]
+[22Feb2025 22:47:04.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 2.412484212765321,0.0,9.904353287554159
+[22Feb2025 22:47:27.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej was slain by Ferrous Wroughtnaut
+[22Feb2025 22:47:41.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Teleported Dalej to MandyXMaster687]
+[22Feb2025 22:49:17.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 was slain by Ferrous Wroughtnaut
+[22Feb2025 22:50:13.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After MandyXMaster687 was slain by Ferrous Wroughtnaut, they gave up
+[22Feb2025 22:50:30.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Dalej was slain by Ferrous Wroughtnaut, they gave up
+[22Feb2025 22:51:18.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After MandyXMaster687 was slain by Ferrous Wroughtnaut, they gave up
+[22Feb2025 22:51:42.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Dalej was slain by Ferrous Wroughtnaut, they gave up
+[22Feb2025 22:51:50.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After MandyXMaster687 was slain by Ferrous Wroughtnaut, they gave up
+[22Feb2025 22:51:51.612] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2075ms or 41 ticks
+[22Feb2025 22:52:15.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After MandyXMaster687 was slain by Ferrous Wroughtnaut, they gave up
+[22Feb2025 22:53:07.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Dalej was slain by Ferrous Wroughtnaut, they gave up
+[22Feb2025 22:54:16.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After MandyXMaster687 was slain by Ferrous Wroughtnaut, they gave up
+[22Feb2025 22:55:43.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After MandyXMaster687 was slain by Ferrous Wroughtnaut, they gave up
+[22Feb2025 22:56:09.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Dalej was slain by Ferrous Wroughtnaut, they gave up
+[22Feb2025 22:56:39.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After MandyXMaster687 was slain by Ferrous Wroughtnaut, they gave up
