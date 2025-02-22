@@ -1167,3 +1167,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Feb2025 21:54:44.539] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
 [22Feb2025 21:54:44.539] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
 [22Feb2025 21:56:44.929] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2189ms or 43 ticks
+[22Feb2025 21:59:49.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MandyXMaster687 lost connection: Disconnected
+[22Feb2025 21:59:49.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 left the game
+[22Feb2025 21:59:49.936] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MandyXMaster687
+[22Feb2025 21:59:49.993] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Feb2025 22:00:03.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[22Feb2025 22:00:03.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[22Feb2025 22:00:03.287] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[22Feb2025 22:00:31.293] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MandyXMaster687[/127.84.190.91:58527] logged in with entity id 39497 at (1443.760775189204, -43.768476202412984, -514.3055450341355)
+[22Feb2025 22:00:31.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 joined the game
+[22Feb2025 22:00:31.365] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[22Feb2025 22:00:31.365] [Server thread/INFO] [Jade/]: Syncing config to MandyXMaster687 (97923b0a-25f4-3d49-b72c-ab5e412188be)
+[22Feb2025 22:00:32.273] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MandyXMaster687 (18)
+[22Feb2025 22:00:32.273] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MandyXMaster687
+[22Feb2025 22:11:44.834] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2196ms or 43 ticks
+[22Feb2025 22:15:15.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has reached the goal [The Cave That Time Forgot]
+[22Feb2025 22:15:39.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has made the advancement [You Monster...]
