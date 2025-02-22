@@ -2799,6 +2799,7 @@
       "minecraft:spider": "2025-02-01 08:40:38 +0000",
       "minecraft:creeper": "2025-02-02 05:28:53 +0000",
       "minecraft:slime": "2025-02-01 08:38:28 +0000",
+      "minecraft:phantom": "2025-02-22 06:09:45 +0000",
       "minecraft:witch": "2025-02-15 07:15:09 +0000",
       "minecraft:cave_spider": "2025-02-01 07:06:43 +0000",
       "minecraft:enderman": "2025-02-01 10:35:13 +0000",
@@ -9567,6 +9568,36 @@
   "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
     "criteria": {
       "arcane_anvil": "2025-02-18 05:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-22 06:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-02-22 06:16:28 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:get_burnt_by_light": {
+    "criteria": {
+      "get_burnt_by_light_0": "2025-02-22 06:15:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-02-22 06:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-22 06:16:28 +0000"
     },
     "done": true
   },

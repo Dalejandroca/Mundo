@@ -103,8 +103,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-02-22 06:14:18 +0000",
+      "minecraft:taiga": "2025-02-22 06:12:34 +0000",
       "minecraft:windswept_hills": "2025-02-08 07:39:46 +0000",
       "minecraft:beach": "2025-02-22 05:57:24 +0000",
+      "minecraft:dark_forest": "2025-02-22 06:10:28 +0000",
       "minecraft:mangrove_swamp": "2025-02-22 05:57:11 +0000",
       "minecraft:sparse_jungle": "2025-02-08 06:19:40 +0000",
       "minecraft:river": "2025-02-01 12:17:31 +0000",
@@ -112,8 +115,10 @@
       "minecraft:dripstone_caves": "2025-02-08 07:34:47 +0000",
       "minecraft:swamp": "2025-02-01 12:17:56 +0000",
       "minecraft:forest": "2025-02-08 07:56:43 +0000",
+      "minecraft:windswept_forest": "2025-02-22 06:13:22 +0000",
       "minecraft:jungle": "2025-02-22 05:59:38 +0000",
       "minecraft:flower_forest": "2025-02-01 12:16:29 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-22 06:12:32 +0000",
       "minecraft:savanna": "2025-02-08 06:08:05 +0000",
       "minecraft:plains": "2025-02-01 04:07:00 +0000"
     },
@@ -2352,6 +2357,7 @@
       "porkchop": "2025-02-08 07:54:09 +0000",
       "apple": "2025-02-08 05:27:50 +0000",
       "cooked_cod": "2025-02-15 06:45:16 +0000",
+      "mutton": "2025-02-22 06:11:35 +0000",
       "bread": "2025-02-15 07:06:43 +0000",
       "rotten_flesh": "2025-02-08 07:14:49 +0000",
       "golden_carrot": "2025-02-15 07:51:53 +0000",
@@ -7787,12 +7793,6 @@
     },
     "done": true
   },
-  "call_of_yucutan:get_burnt_by_light": {
-    "criteria": {
-      "get_burnt_by_light_0": "2025-02-22 06:03:09 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/oven": {
     "criteria": {
       "has_oven": "2025-02-22 06:01:38 +0000"
@@ -7835,15 +7835,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-02-22 06:01:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
       "has_sherd": "2025-02-22 06:01:45 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/decorations/flower_pot": {
+  "call_of_yucutan:get_burnt_by_light": {
     "criteria": {
-      "has_brick": "2025-02-22 06:01:38 +0000"
+      "get_burnt_by_light_0": "2025-02-22 06:03:09 +0000"
     },
     "done": true
   },
