@@ -8122,3 +8122,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Feb2025 00:57:32.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Feb2025 00:57:32.510] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2126ms or 42 ticks
 [22Feb2025 00:57:44.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: The difficulty has been set to Normal]
+[22Feb2025 01:02:32.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 01:02:32.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 01:07:32.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 01:07:32.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 01:08:12.032] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blight 1: [c61743c0-d66e-43ab-aa61-461cbc422ae6]
