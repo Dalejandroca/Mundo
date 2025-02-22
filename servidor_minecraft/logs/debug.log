@@ -8731,3 +8731,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Feb2025 22:57:02.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Feb2025 22:58:02.504] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.51 and blood value 10 for entity vinery:mule
 [22Feb2025 22:58:02.505] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.51 and blood value 10 for entity vinery:mule
+[22Feb2025 22:58:42.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Dalej was slain by Ferrous Wroughtnaut, they gave up
+[22Feb2025 22:58:44.001] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Dalej has new faction level vampirism:vampire 7
+[22Feb2025 22:58:46.273] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2075ms or 41 ticks
+[22Feb2025 22:58:52.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22Feb2025 22:59:31.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Dalej was slain by Ferrous Wroughtnaut, they gave up
+[22Feb2025 22:59:33.498] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Dalej has new faction level vampirism:vampire 7
+[22Feb2025 23:00:37.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Teleported MandyXMaster687 to Dalej]
+[22Feb2025 23:02:04.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 23:02:04.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 23:02:34.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After MandyXMaster687 was slain by Ferrous Wroughtnaut, they gave up
+[22Feb2025 23:02:37.087] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: MandyXMaster687 has new faction level vampirism:vampire 7
+[22Feb2025 23:05:41.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has completed the challenge [Just a Flesh Wound]
+[22Feb2025 23:07:04.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 23:07:04.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 23:07:13.753] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2103ms or 42 ticks
