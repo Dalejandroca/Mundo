@@ -5722,6 +5722,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2025-02-01 10:11:57 +0000",
+      "sweet_berries": "2025-02-22 09:07:10 +0000",
       "tomato": "2025-02-01 10:11:55 +0000",
       "sugar_cane": "2025-02-02 07:26:42 +0000",
       "red_mushroom": "2025-02-22 08:05:12 +0000",
@@ -9095,6 +9096,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/building_blocks/dark_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-22 09:12:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-02-22 08:44:55 +0000"
@@ -9116,6 +9123,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-22 08:39:56 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_spruce_planks": {
+    "criteria": {
+      "has_log": "2025-02-22 09:12:33 +0000"
     },
     "done": true
   },
