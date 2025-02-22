@@ -120,6 +120,7 @@
       "minecraft:snowy_taiga": "2025-02-16 07:44:24 +0000",
       "minecraft:swamp": "2025-02-01 07:03:46 +0000",
       "minecraft:grove": "2025-02-22 07:17:03 +0000",
+      "minecraft:jagged_peaks": "2025-02-22 07:41:33 +0000",
       "minecraft:forest": "2025-02-15 08:47:18 +0000",
       "minecraft:windswept_forest": "2025-02-15 08:50:59 +0000",
       "minecraft:ocean": "2025-02-16 11:52:41 +0000",
@@ -451,6 +452,7 @@
       "cooked_cod": "2025-02-15 06:46:25 +0000",
       "mutton": "2025-02-08 07:38:22 +0000",
       "bread": "2025-02-01 06:18:12 +0000",
+      "golden_apple": "2025-02-22 07:46:19 +0000",
       "rotten_flesh": "2025-02-01 10:10:47 +0000",
       "glow_berries": "2025-02-15 19:37:01 +0000",
       "salmon": "2025-02-15 08:32:44 +0000",
@@ -9670,6 +9672,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-22 07:45:44 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/crimson_couch": {
     "criteria": {
       "has_crimson_couch": "2025-02-22 06:35:47 +0000"
@@ -10282,6 +10290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-22 07:45:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-22 06:35:47 +0000"
@@ -10321,6 +10335,12 @@
   "handcrafted:recipes/misc/crimson_nightstand": {
     "criteria": {
       "has_crimson_nightstand": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-22 07:45:44 +0000"
     },
     "done": true
   },
