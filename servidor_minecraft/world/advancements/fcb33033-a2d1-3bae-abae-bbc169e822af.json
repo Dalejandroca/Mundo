@@ -10416,15 +10416,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2025-02-18 05:30:03 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/dinosaur_nugget": {
     "criteria": {
       "cooked_dinosaur_chop": "2025-02-18 05:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-18 05:30:03 +0000"
     },
     "done": true
   },
