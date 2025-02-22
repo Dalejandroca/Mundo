@@ -42,3 +42,24 @@
 [22Feb2025 00:55:16.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: The difficulty has been set to Peaceful]
 [22Feb2025 00:57:32.510] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2126ms or 42 ticks
 [22Feb2025 00:57:44.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: The difficulty has been set to Normal]
+[22Feb2025 01:10:08.500] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [7, -52], discarding
+[22Feb2025 01:10:08.502] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [8, -52], discarding
+[22Feb2025 01:10:08.503] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [9, -52], discarding
+[22Feb2025 01:10:08.560] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [7, -51], discarding
+[22Feb2025 01:10:08.562] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [8, -51], discarding
+[22Feb2025 01:10:08.563] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: apollyon:council_room
+[22Feb2025 01:10:08.563] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [9, -51], discarding
+[22Feb2025 01:10:08.585] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [7, -50], discarding
+[22Feb2025 01:10:08.587] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [8, -50], discarding
+[22Feb2025 01:10:08.588] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [9, -50], discarding
+[22Feb2025 01:10:08.616] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2635ms or 52 ticks
+[22Feb2025 01:10:10.301] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id apollyon:the_infector
+[22Feb2025 01:10:10.313] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [9, -49], discarding
+[22Feb2025 01:10:10.320] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [7, -49], discarding
+[22Feb2025 01:10:10.323] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'apollyon:council_room' in chunk [8, -49], discarding
+[22Feb2025 01:15:21.924] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[22Feb2025 01:15:21.924] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[22Feb2025 01:15:21.929] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[22Feb2025 01:15:21.929] [Server thread/WARN] [de.teamlapen.werewolves.entities.ModEntityEventHandler/]: Could not replace skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[22Feb2025 01:17:32.548] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2140ms or 42 ticks
+[22Feb2025 01:17:54.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 was slain by Vampire Hunter
