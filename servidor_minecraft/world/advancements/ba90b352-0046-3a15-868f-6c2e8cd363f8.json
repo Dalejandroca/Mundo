@@ -9583,9 +9583,33 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
+  "handcrafted:recipes/misc/phantom_trophy": {
     "criteria": {
-      "has_glass": "2025-02-22 06:53:30 +0000"
+      "has_phantom_trophy": "2025-02-22 06:12:11 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:get_burnt_by_light": {
+    "criteria": {
+      "get_burnt_by_light_0": "2025-02-22 06:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-22 06:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-02-22 06:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-22 06:16:28 +0000"
     },
     "done": true
   },
@@ -9595,9 +9619,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_dye": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "has_glass": "2025-02-22 06:53:30 +0000"
+      "voluntary_exile": "2025-02-22 06:28:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-02-22 06:35:39 +0000"
     },
     "done": true
   },
@@ -9607,15 +9637,243 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
+  "handcrafted:recipes/misc/crimson_side_table": {
+    "criteria": {
+      "has_crimson_side_table": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_couch": {
+    "criteria": {
+      "has_crimson_couch": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_pillar_trim": {
+    "criteria": {
+      "has_crimson_pillar_trim": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_mail_box": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_corner_trim": {
+    "criteria": {
+      "has_crimson_corner_trim": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_table": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_cupboard": {
+    "criteria": {
+      "has_crimson_cupboard": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_fancy_bed": {
+    "criteria": {
+      "has_crimson_fancy_bed": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_counter": {
+    "criteria": {
+      "has_crimson_counter": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_drawer": {
+    "criteria": {
+      "has_crimson_drawer": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_desk": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_dining_bench": {
+    "criteria": {
+      "has_crimson_dining_bench": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_crate": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_shelf": {
+    "criteria": {
+      "has_crimson_shelf": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_table": {
+    "criteria": {
+      "has_crimson_table": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_desk": {
+    "criteria": {
+      "has_crimson_desk": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_cabinetry": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_chair": {
+    "criteria": {
+      "has_crimson_chair": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_bench": {
+    "criteria": {
+      "has_crimson_bench": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_cutting_board": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_drawer": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_nightstand": {
+    "criteria": {
+      "has_crimson_nightstand": "2025-02-22 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_artificer": {
+    "criteria": {
+      "requirement": "2025-02-22 06:36:35 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-02-22 06:36:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_pink_daffodil": "2025-02-22 06:52:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-22 06:53:30 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/crimson_side_table": {
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_dye": {
     "criteria": {
-      "has_crimson_side_table": "2025-02-22 06:35:47 +0000"
+      "has_glass": "2025-02-22 06:53:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-22 06:53:30 +0000"
     },
     "done": true
   },
@@ -9637,12 +9895,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2025-02-22 06:16:28 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
     "criteria": {
       "has_glass": "2025-02-22 06:53:30 +0000"
@@ -9661,27 +9913,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2025-02-22 06:35:39 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-22 06:53:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-02-22 07:45:44 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_couch": {
-    "criteria": {
-      "has_crimson_couch": "2025-02-22 06:35:47 +0000"
     },
     "done": true
   },
@@ -9703,21 +9937,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crimson_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-02-22 06:35:47 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-22 06:53:30 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_pillar_trim": {
-    "criteria": {
-      "has_crimson_pillar_trim": "2025-02-22 06:35:47 +0000"
     },
     "done": true
   },
@@ -9733,33 +9955,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crimson_sign": {
-    "criteria": {
-      "has_planks": "2025-02-22 06:35:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-02-22 06:28:12 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-22 06:53:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-02-22 06:16:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_door": {
-    "criteria": {
-      "has_planks": "2025-02-22 06:35:47 +0000"
     },
     "done": true
   },
@@ -9775,33 +9973,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
-    "criteria": {
-      "has_upgrade_base": "2025-02-22 08:18:51 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-22 06:35:47 +0000"
-    },
-    "done": true
-  },
-  "call_of_yucutan:get_burnt_by_light": {
-    "criteria": {
-      "get_burnt_by_light_0": "2025-02-22 06:15:04 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-22 06:53:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-02-22 08:31:49 +0000"
     },
     "done": true
   },
@@ -9829,33 +10003,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/crimson_mail_box": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-22 06:35:47 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_corner_trim": {
-    "criteria": {
-      "has_crimson_corner_trim": "2025-02-22 06:35:47 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_table": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-22 06:35:47 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-22 06:53:30 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_cupboard": {
-    "criteria": {
-      "has_crimson_cupboard": "2025-02-22 06:35:47 +0000"
     },
     "done": true
   },
@@ -9901,30 +10051,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/crimson_fancy_bed": {
-    "criteria": {
-      "has_crimson_fancy_bed": "2025-02-22 06:35:47 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_counter": {
-    "criteria": {
-      "has_crimson_counter": "2025-02-22 06:35:47 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_drawer": {
-    "criteria": {
-      "has_crimson_drawer": "2025-02-22 06:35:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_fence": {
-    "criteria": {
-      "has_planks": "2025-02-22 06:35:47 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-22 06:53:30 +0000"
@@ -9943,45 +10069,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-22 06:35:47 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-22 06:53:30 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/crimson_desk": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-22 06:35:47 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-22 06:53:30 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-22 06:35:47 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/phantom_trophy": {
-    "criteria": {
-      "has_phantom_trophy": "2025-02-22 06:12:11 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_dining_bench": {
-    "criteria": {
-      "has_crimson_dining_bench": "2025-02-22 06:35:47 +0000"
     },
     "done": true
   },
@@ -10000,24 +10096,6 @@
   "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
     "criteria": {
       "has_glass": "2025-02-22 06:53:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_button": {
-    "criteria": {
-      "has_planks": "2025-02-22 06:35:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_slab": {
-    "criteria": {
-      "has_planks": "2025-02-22 06:35:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_stairs": {
-    "criteria": {
-      "has_planks": "2025-02-22 06:35:47 +0000"
     },
     "done": true
   },
@@ -10051,18 +10129,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/magic_wood": {
-    "criteria": {
-      "has_log": "2025-02-22 07:18:34 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_crate": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-22 06:35:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-22 06:53:30 +0000"
@@ -10075,21 +10141,9 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/staff_artificer": {
-    "criteria": {
-      "requirement": "2025-02-22 06:36:35 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-22 06:53:30 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_shelf": {
-    "criteria": {
-      "has_crimson_shelf": "2025-02-22 06:35:47 +0000"
     },
     "done": true
   },
@@ -10105,18 +10159,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/crimson_table": {
-    "criteria": {
-      "has_crimson_table": "2025-02-22 06:35:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2025-02-22 06:16:28 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-22 06:53:30 +0000"
@@ -10129,51 +10171,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/crimson_desk": {
-    "criteria": {
-      "has_crimson_desk": "2025-02-22 06:35:47 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2025-02-22 07:15:56 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_cabinetry": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-22 06:35:47 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/coarse_dirt_slab": {
-    "criteria": {
-      "has_coarse_dirt": "2025-02-22 07:39:18 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-22 06:53:30 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/magic_planks": {
-    "criteria": {
-      "has_logs": "2025-02-22 07:18:34 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
-    "criteria": {
-      "has_pink_daffodil": "2025-02-22 06:52:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-02-22 06:35:47 +0000"
     },
     "done": true
   },
@@ -10219,21 +10219,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/crimson_chair": {
-    "criteria": {
-      "has_crimson_chair": "2025-02-22 06:35:47 +0000"
-    },
-    "done": true
-  },
   "vinery:recipes/wine_box": {
     "criteria": {
       "has_glass": "2025-02-22 06:53:30 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/staff_root": {
-    "criteria": {
-      "requirement": "2025-02-22 06:36:35 +0000"
     },
     "done": true
   },
@@ -10267,51 +10255,15 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/crimson_bench": {
-    "criteria": {
-      "has_crimson_bench": "2025-02-22 06:35:47 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-22 06:53:30 +0000"
     },
     "done": true
   },
-  "vampirism:main/vampire_forest": {
-    "criteria": {
-      "main": "2025-02-22 07:34:49 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_cutting_board": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-22 06:35:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-22 06:53:30 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_drawer": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-22 06:35:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-02-22 07:45:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-02-22 06:35:47 +0000"
     },
     "done": true
   },
@@ -10345,18 +10297,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/crimson_nightstand": {
-    "criteria": {
-      "has_crimson_nightstand": "2025-02-22 06:35:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-02-22 07:45:44 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-22 06:53:30 +0000"
@@ -10366,6 +10306,66 @@
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-22 06:53:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-02-22 07:15:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2025-02-22 07:18:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2025-02-22 07:18:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2025-02-22 07:34:49 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-02-22 07:39:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-22 07:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-22 07:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-22 07:45:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-22 08:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-22 08:31:49 +0000"
     },
     "done": true
   },
