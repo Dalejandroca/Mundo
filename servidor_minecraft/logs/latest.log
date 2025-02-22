@@ -63,3 +63,32 @@
 [22Feb2025 01:15:21.929] [Server thread/WARN] [de.teamlapen.werewolves.entities.ModEntityEventHandler/]: Could not replace skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
 [22Feb2025 01:17:32.548] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2140ms or 42 ticks
 [22Feb2025 01:17:54.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 was slain by Vampire Hunter
+[22Feb2025 01:24:28.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MandyXMaster687 lost connection: Disconnected
+[22Feb2025 01:24:28.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 left the game
+[22Feb2025 01:24:28.383] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MandyXMaster687
+[22Feb2025 01:25:13.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Feb2025 01:25:13.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Feb2025 01:25:13.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Feb2025 01:25:13.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Feb2025 01:25:13.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Feb2025 01:25:13.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Feb2025 01:25:13.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[22Feb2025 01:25:13.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[22Feb2025 01:25:13.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[22Feb2025 01:25:13.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[22Feb2025 01:25:13.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Feb2025 01:25:13.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/tht:dimension
+[22Feb2025 01:25:14.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Feb2025 01:25:14.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Feb2025 01:25:14.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[22Feb2025 01:25:14.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[22Feb2025 01:25:14.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[22Feb2025 01:25:14.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[22Feb2025 01:25:14.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Feb2025 01:25:14.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dimension): All chunks are saved
+[22Feb2025 01:25:14.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Feb2025 01:25:14.125] [Server thread/INFO] [Framework/]: Unloading server configs...
+[22Feb2025 01:25:14.130] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[22Feb2025 01:25:14.140] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[22Feb2025 01:25:14.140] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[22Feb2025 01:25:14.163] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

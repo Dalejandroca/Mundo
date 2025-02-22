@@ -8171,3 +8171,118 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Feb2025 01:17:32.548] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2140ms or 42 ticks
 [22Feb2025 01:17:54.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 was slain by Vampire Hunter
 [22Feb2025 01:17:55.765] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: MandyXMaster687 has new faction level vampirism:vampire 5
+[22Feb2025 01:18:46.750] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 01:18:47.202] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 01:18:47.522] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 01:18:47.782] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 01:18:48.027] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 01:18:48.212] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 01:18:48.408] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 01:18:48.662] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 01:18:48.877] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 01:18:49.071] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 01:18:49.266] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 01:18:49.505] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 01:18:49.738] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[22Feb2025 01:19:38.610] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.8 and blood value 5 for entity samurai_dynasty:tanuki
+[22Feb2025 01:22:32.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 01:22:32.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 01:24:28.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MandyXMaster687 lost connection: Disconnected
+[22Feb2025 01:24:28.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 left the game
+[22Feb2025 01:24:28.382] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of MandyXMaster687
+[22Feb2025 01:24:28.383] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MandyXMaster687
+[22Feb2025 01:25:13.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Feb2025 01:25:13.176] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[22Feb2025 01:25:13.179] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[22Feb2025 01:25:13.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Feb2025 01:25:13.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Feb2025 01:25:13.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Feb2025 01:25:13.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Feb2025 01:25:13.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Feb2025 01:25:13.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[22Feb2025 01:25:13.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[22Feb2025 01:25:13.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[22Feb2025 01:25:13.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[22Feb2025 01:25:13.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Feb2025 01:25:13.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/tht:dimension
+[22Feb2025 01:25:13.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 01:25:13.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 01:25:14.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Feb2025 01:25:14.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Feb2025 01:25:14.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[22Feb2025 01:25:14.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[22Feb2025 01:25:14.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[22Feb2025 01:25:14.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[22Feb2025 01:25:14.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Feb2025 01:25:14.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dimension): All chunks are saved
+[22Feb2025 01:25:14.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Feb2025 01:25:14.125] [Server thread/INFO] [Framework/]: Unloading server configs...
+[22Feb2025 01:25:14.126] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/Mundo/servidor_minecraft/config/refurbished_furniture.server.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23238!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23238!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23238!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23238!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23238!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.lambda$forEachRemaining$1(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.forEachRemaining(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23238!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23238!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23238!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23238!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23238!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.7-universal.jar%23310!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[22Feb2025 01:25:14.130] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[22Feb2025 01:25:14.139] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/Mundo/servidor_minecraft/config/goblintraders-entities.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23238!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23238!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23238!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23238!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23238!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.lambda$forEachRemaining$1(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.forEachRemaining(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23238!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23238!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23238!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23238!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23238!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.7-universal.jar%23310!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[22Feb2025 01:25:14.140] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[22Feb2025 01:25:14.140] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[22Feb2025 01:25:14.159] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[22Feb2025 01:25:14.163] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
