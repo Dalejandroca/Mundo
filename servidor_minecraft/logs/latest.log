@@ -1183,3 +1183,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Feb2025 22:11:44.834] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2196ms or 43 ticks
 [22Feb2025 22:15:15.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has reached the goal [The Cave That Time Forgot]
 [22Feb2025 22:15:39.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has made the advancement [You Monster...]
+[22Feb2025 22:23:19.011] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.251.43.72:45723] logged in with entity id 46011 at (1673.8500263754934, 88.39999997615814, -500.40000000596046)
+[22Feb2025 22:23:19.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[22Feb2025 22:23:19.042] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[22Feb2025 22:23:20.145] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[22Feb2025 22:23:20.145] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[22Feb2025 22:23:38.976] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2045ms or 40 ticks
+[22Feb2025 22:24:42.354] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2073ms or 41 ticks
+[22Feb2025 22:26:41.463] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2103ms or 42 ticks
+[22Feb2025 22:27:32.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22Feb2025 22:27:37.884] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2011ms or 40 ticks
+[22Feb2025 22:27:53.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind

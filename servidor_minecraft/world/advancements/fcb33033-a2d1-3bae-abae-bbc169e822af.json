@@ -10434,33 +10434,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blood_infused_enhanced_iron_block": {
-    "criteria": {
-      "has_blood_infused_enhanced_iron_ingot": "2025-02-22 21:49:18 +0000"
-    },
-    "done": true
-  },
   "vampirism:recipes/food/general/garlic_bread": {
     "criteria": {
       "has_garlic": "2025-02-22 21:16:12 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/heart_seeker_enhanced_repair": {
-    "criteria": {
-      "has_heart_seeker": "2025-02-22 21:49:53 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/heart_striker_enhanced": {
-    "criteria": {
-      "has_ingot": "2025-02-22 21:49:18 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/vampire/heart_seeker_enhanced": {
-    "criteria": {
-      "has_ingot": "2025-02-22 21:49:18 +0000"
     },
     "done": true
   },
@@ -10479,6 +10455,30 @@
   "vampirism:recipes/misc/hunter/pure_blood3": {
     "criteria": {
       "has_pure_blood": "2025-02-22 21:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blood_infused_enhanced_iron_block": {
+    "criteria": {
+      "has_blood_infused_enhanced_iron_ingot": "2025-02-22 21:49:18 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_striker_enhanced": {
+    "criteria": {
+      "has_ingot": "2025-02-22 21:49:18 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_seeker_enhanced": {
+    "criteria": {
+      "has_ingot": "2025-02-22 21:49:18 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_seeker_enhanced_repair": {
+    "criteria": {
+      "has_heart_seeker": "2025-02-22 21:49:53 +0000"
     },
     "done": true
   },
