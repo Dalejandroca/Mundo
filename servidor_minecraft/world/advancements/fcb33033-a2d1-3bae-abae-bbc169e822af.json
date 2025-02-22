@@ -10434,5 +10434,11 @@
     },
     "done": true
   },
+  "vampirism:recipes/food/general/garlic_bread": {
+    "criteria": {
+      "has_garlic": "2025-02-22 21:16:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
