@@ -11112,3 +11112,30 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [22Feb2025 09:47:03.394] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Disconnected
 [22Feb2025 09:47:03.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
 [22Feb2025 09:47:03.394] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[22Feb2025 09:50:10.173] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/186031, l='ServerLevel[world]', x=1515.31, y=144.00, z=1502.45] died: Vampire Baron Level 2 was slain by Vampire Baron Level 2
+[22Feb2025 09:52:45.629] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@40692831[id=<null>,name=morax,properties={},legacy=false] (/127.255.116.247:42337): Took too long to log in
+[22Feb2025 09:52:45.630] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@40692831[id=<null>,name=morax,properties={},legacy=false] (/127.255.116.247:42337) lost connection: Took too long to log in
+[22Feb2025 09:52:45.680] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Feb2025 09:53:34.995] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.179.53.180:57661] logged in with entity id 186541 at (170.5, 87.03584062504456, 22.5)
+[22Feb2025 09:53:35.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[22Feb2025 09:53:35.072] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[22Feb2025 09:53:38.206] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[22Feb2025 09:53:38.207] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[22Feb2025 09:54:00.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Denji lost connection: Timed out
+[22Feb2025 09:54:00.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji left the game
+[22Feb2025 09:54:00.543] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Denji
+[22Feb2025 09:54:05.126] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[22Feb2025 09:54:05.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[22Feb2025 09:54:05.127] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[22Feb2025 09:54:26.923] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.152.57.28:38957] logged in with entity id 186895 at (1550.50512122637, 157.0, 1583.771962354442)
+[22Feb2025 09:54:26.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[22Feb2025 09:54:27.038] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[22Feb2025 09:54:27.038] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[22Feb2025 09:54:28.057] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2445ms or 48 ticks
+[22Feb2025 09:54:28.239] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Denji (18)
+[22Feb2025 09:54:28.239] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Denji
+[22Feb2025 09:55:29.048] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.179.53.180:40479] logged in with entity id 187248 at (170.5, 87.03584062504456, 22.5)
+[22Feb2025 09:55:29.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[22Feb2025 09:55:29.114] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[22Feb2025 09:55:29.720] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[22Feb2025 09:55:29.721] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
