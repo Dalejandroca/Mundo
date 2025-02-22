@@ -108,6 +108,7 @@
       "minecraft:frozen_river": "2025-02-15 19:33:00 +0000",
       "minecraft:birch_forest": "2025-02-15 21:31:22 +0000",
       "minecraft:savanna_plateau": "2025-02-01 07:52:13 +0000",
+      "minecraft:beach": "2025-02-22 06:41:13 +0000",
       "minecraft:stony_peaks": "2025-02-01 07:52:26 +0000",
       "minecraft:dark_forest": "2025-02-15 18:19:30 +0000",
       "minecraft:river": "2025-02-01 08:22:25 +0000",
@@ -8995,21 +8996,39 @@
     },
     "done": true
   },
-  "call_of_yucutan:get_burnt_by_light": {
-    "criteria": {
-      "get_burnt_by_light_0": "2025-02-22 06:23:41 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-02-22 05:49:57 +0000"
     },
     "done": true
   },
+  "call_of_yucutan:get_burnt_by_light": {
+    "criteria": {
+      "get_burnt_by_light_0": "2025-02-22 06:23:41 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/dark_iron": {
     "criteria": {
       "dark_iron": "2025-02-22 06:25:27 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:interact_with_mirror": {
+    "criteria": {
+      "interact_with_mirror_0": "2025-02-22 06:34:08 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_hat": {
+    "criteria": {
+      "has_heart": "2025-02-22 06:37:20 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_boots": {
+    "criteria": {
+      "has_heart": "2025-02-22 06:37:20 +0000"
     },
     "done": true
   },

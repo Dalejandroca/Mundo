@@ -105,6 +105,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-02-22 06:14:18 +0000",
       "minecraft:taiga": "2025-02-22 06:12:34 +0000",
+      "minecraft:birch_forest": "2025-02-22 06:39:39 +0000",
       "minecraft:windswept_hills": "2025-02-08 07:39:46 +0000",
       "minecraft:beach": "2025-02-22 05:57:24 +0000",
       "minecraft:dark_forest": "2025-02-22 06:10:28 +0000",
@@ -117,6 +118,7 @@
       "minecraft:forest": "2025-02-08 07:56:43 +0000",
       "minecraft:windswept_forest": "2025-02-22 06:13:22 +0000",
       "minecraft:jungle": "2025-02-22 05:59:38 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-02-22 06:35:34 +0000",
       "minecraft:flower_forest": "2025-02-01 12:16:29 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-22 06:12:32 +0000",
       "minecraft:savanna": "2025-02-08 06:08:05 +0000",
@@ -139,6 +141,7 @@
       "marsh": "2025-02-08 06:28:21 +0000",
       "wetland": "2025-02-08 06:20:46 +0000",
       "old_growth_woodland": "2025-02-08 06:12:27 +0000",
+      "overgrown_greens": "2025-02-22 06:44:06 +0000",
       "spider_nest": "2025-02-08 05:25:30 +0000",
       "pasture": "2025-02-01 12:17:52 +0000",
       "volcanic_plains": "2025-02-08 06:17:51 +0000",
@@ -2353,6 +2356,7 @@
       "cooked_porkchop": "2025-02-15 06:34:09 +0000",
       "chicken": "2025-02-08 07:53:29 +0000",
       "cooked_mutton": "2025-02-22 06:25:25 +0000",
+      "sweet_berries": "2025-02-22 06:37:48 +0000",
       "cooked_beef": "2025-02-15 06:17:56 +0000",
       "baked_potato": "2025-02-08 06:01:35 +0000",
       "porkchop": "2025-02-08 07:54:09 +0000",
@@ -2362,6 +2366,7 @@
       "bread": "2025-02-15 07:06:43 +0000",
       "rotten_flesh": "2025-02-08 07:14:49 +0000",
       "golden_carrot": "2025-02-15 07:51:53 +0000",
+      "cooked_chicken": "2025-02-22 06:33:06 +0000",
       "cod": "2025-02-15 07:22:41 +0000",
       "cooked_salmon": "2025-02-15 06:57:06 +0000"
     },
@@ -7855,21 +7860,9 @@
     },
     "done": true
   },
-  "call_of_yucutan:interact_with_mirror": {
+  "graveyard:graveyard/dark_iron": {
     "criteria": {
-      "interact_with_mirror_0": "2025-02-22 06:25:01 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2025-02-22 06:22:08 +0000"
-    },
-    "done": true
-  },
-  "brewery:recipes/fried_chicken": {
-    "criteria": {
-      "has_cooked_chicken": "2025-02-22 06:22:08 +0000"
+      "dark_iron": "2025-02-22 06:17:38 +0000"
     },
     "done": true
   },
@@ -7885,27 +7878,81 @@
     },
     "done": true
   },
-  "vinery:recipes/grass_slab": {
-    "criteria": {
-      "has_grass_block": "2025-02-22 06:21:35 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/dark_iron": {
-    "criteria": {
-      "dark_iron": "2025-02-22 06:17:38 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-02-22 06:21:14 +0000"
     },
     "done": true
   },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-02-22 06:21:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-22 06:22:08 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/fried_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-22 06:22:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2025-02-22 06:22:08 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:interact_with_mirror": {
+    "criteria": {
+      "interact_with_mirror_0": "2025-02-22 06:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-22 06:44:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-02-22 06:37:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2025-02-22 06:37:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-02-22 06:37:45 +0000"
+    },
+    "done": false
+  },
+  "brewery:main/wild_crops": {
+    "criteria": {
+      "hops_seeds": "2025-02-22 06:38:05 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-02-22 06:37:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-02-22 06:37:34 +0000"
     },
     "done": true
   },
