@@ -1276,3 +1276,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Feb2025 23:05:41.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has completed the challenge [Just a Flesh Wound]
 [22Feb2025 23:07:13.753] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2103ms or 42 ticks
 [22Feb2025 23:10:04.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Teleported MandyXMaster687 to Dalej]
+[22Feb2025 23:25:42.231] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/71066, l='ServerLevel[world]', x=1397.50, y=52.00, z=-569.50] died, message: 'Nitwit was sucked dry fighting MandyXMaster687'
+[22Feb2025 23:26:00.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Disconnected
+[22Feb2025 23:26:00.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[22Feb2025 23:26:00.930] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[22Feb2025 23:26:23.003] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.251.43.72:48345] logged in with entity id 75361 at (1393.3236565358911, 52.0, -569.4799196537831)
+[22Feb2025 23:26:23.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[22Feb2025 23:26:23.029] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[22Feb2025 23:26:23.951] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[22Feb2025 23:26:23.952] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[22Feb2025 23:26:47.509] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2061ms or 41 ticks
+[22Feb2025 23:28:06.440] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/75658, l='ServerLevel[world]', x=107.42, y=64.00, z=-199.88] died, message: 'Unemployed was slain by Zombie'
+[22Feb2025 23:28:13.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Teleported Dalej to MandyXMaster687]
