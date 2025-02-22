@@ -27,3 +27,18 @@
 [22Feb2025 00:35:43.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MandyXMaster687 lost connection: Disconnected
 [22Feb2025 00:35:43.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 left the game
 [22Feb2025 00:35:43.180] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MandyXMaster687
+[22Feb2025 00:43:16.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Feb2025 00:43:16.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[22Feb2025 00:47:16.436] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MandyXMaster687[/127.84.190.91:49109] logged in with entity id 32264 at (-2193.989109277544, -9.0, 1172.2029761237945)
+[22Feb2025 00:47:16.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 joined the game
+[22Feb2025 00:47:16.502] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[22Feb2025 00:47:16.502] [Server thread/INFO] [Jade/]: Syncing config to MandyXMaster687 (97923b0a-25f4-3d49-b72c-ab5e412188be)
+[22Feb2025 00:47:16.586] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2093ms or 41 ticks
+[22Feb2025 00:47:18.056] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MandyXMaster687 (18)
+[22Feb2025 00:47:18.057] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MandyXMaster687
+[22Feb2025 00:48:01.250] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2319ms or 46 ticks
+[22Feb2025 00:52:49.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Set own game mode to Spectator Mode]
+[22Feb2025 00:54:00.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Set own game mode to Survival Mode]
+[22Feb2025 00:55:16.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: The difficulty has been set to Peaceful]
+[22Feb2025 00:57:32.510] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2126ms or 42 ticks
+[22Feb2025 00:57:44.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: The difficulty has been set to Normal]
