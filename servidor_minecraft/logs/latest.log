@@ -2776,3 +2776,4 @@ java.lang.Throwable: null
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[22Feb2025 08:51:19.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keibel fell from a high place
