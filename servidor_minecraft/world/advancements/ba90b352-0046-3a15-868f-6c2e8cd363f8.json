@@ -2811,8 +2811,10 @@
     "criteria": {
       "minecraft:pillager": "2025-02-22 06:28:12 +0000",
       "minecraft:skeleton": "2025-02-01 07:50:38 +0000",
+      "minecraft:ghast": "2025-02-23 09:11:08 +0000",
       "minecraft:hoglin": "2025-02-23 09:01:23 +0000",
       "minecraft:vindicator": "2025-02-22 06:39:00 +0000",
+      "minecraft:magma_cube": "2025-02-23 09:11:25 +0000",
       "minecraft:spider": "2025-02-01 08:40:38 +0000",
       "minecraft:creeper": "2025-02-02 05:28:53 +0000",
       "minecraft:slime": "2025-02-01 08:38:28 +0000",
@@ -10465,6 +10467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-23 09:10:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-02-23 07:21:51 +0000"
@@ -10487,6 +10495,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-02-23 09:00:23 +0000",
       "minecraft:nether_wastes": "2025-02-23 09:01:23 +0000",
+      "minecraft:basalt_deltas": "2025-02-23 09:11:34 +0000",
       "minecraft:warped_forest": "2025-02-23 09:06:57 +0000"
     },
     "done": false
@@ -10545,6 +10554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-23 09:10:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_stone_button": {
     "criteria": {
       "has_block": "2025-02-23 08:46:49 +0000"
@@ -10569,9 +10584,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-23 09:10:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs_from_reinforced_stone_stonecutting": {
     "criteria": {
       "has_reinforced_stone": "2025-02-23 08:46:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2025-02-23 09:08:38 +0000"
     },
     "done": true
   },
@@ -10629,6 +10656,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-23 09:10:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_normal_stone_slab_from_reinforced_stone_stonecutting": {
     "criteria": {
       "has_reinforced_stone": "2025-02-23 08:46:49 +0000"
@@ -10659,6 +10692,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-23 09:10:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-23 08:41:26 +0000"
@@ -10683,6 +10722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-23 09:10:13 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/banana": {
     "criteria": {
       "banana": "2025-02-23 07:26:51 +0000"
@@ -10698,6 +10743,12 @@
   "securitycraft:recipes/building_blocks/reinforced_stone_brick_slab_from_reinforced_stone_stonecutting": {
     "criteria": {
       "has_reinforced_stone": "2025-02-23 08:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-02-23 09:08:38 +0000"
     },
     "done": true
   },
