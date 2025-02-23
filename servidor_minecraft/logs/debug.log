@@ -9377,3 +9377,72 @@ java.lang.Throwable: null
 [23Feb2025 11:13:06.904] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2095ms or 41 ticks
 [23Feb2025 11:13:08.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Feb2025 11:13:08.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 11:13:26.226] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2082ms or 41 ticks
+[23Feb2025 11:14:30.980] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2053ms or 41 ticks
+[23Feb2025 11:14:34.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved wrongly! 0.45322629759129995
+[23Feb2025 11:14:34.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved wrongly! 0.7306354996653681
+[23Feb2025 11:14:34.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved wrongly! 0.9737055580060314
+[23Feb2025 11:14:34.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved wrongly! 1.2354159756393983
+[23Feb2025 11:14:34.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved wrongly! 1.7682237258870828
+[23Feb2025 11:14:34.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved wrongly! 1.4576417503474204
+[23Feb2025 11:14:34.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved wrongly! 1.1465369951743014
+[23Feb2025 11:14:34.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved wrongly! 1.7682237258870828
+[23Feb2025 11:14:34.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved wrongly! 1.8134278868949423
+[23Feb2025 11:14:34.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved wrongly! 1.5014360084981035
+[23Feb2025 11:14:34.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved wrongly! 1.8371335236597588
+[23Feb2025 11:14:34.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved wrongly! 1.5240964152740162
+[23Feb2025 11:14:34.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved wrongly! 1.8295155780410823
+[23Feb2025 11:14:34.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved wrongly! 1.5153190285452638
+[23Feb2025 11:14:34.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved wrongly! 1.1854481013945133
+[23Feb2025 11:14:34.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved wrongly! 0.8481854631179431
+[23Feb2025 11:14:34.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved wrongly! 0.47256048546410057
+[23Feb2025 11:15:02.689] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2030ms or 40 ticks
+[23Feb2025 11:15:40.030] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2092ms or 41 ticks
+[23Feb2025 11:16:14.646] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2036ms or 40 ticks
+[23Feb2025 11:16:26.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved wrongly! 0.2854574935945493
+[23Feb2025 11:16:26.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved wrongly! 0.6168238520463092
+[23Feb2025 11:16:26.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved wrongly! 0.8655548558754163
+[23Feb2025 11:16:26.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved wrongly! 0.9993821971056605
+[23Feb2025 11:16:26.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved wrongly! 1.3307490999677611
+[23Feb2025 11:16:26.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved wrongly! 1.5977896578606305
+[23Feb2025 11:16:26.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved wrongly! 1.881787004171656
+[23Feb2025 11:16:57.041] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2093ms or 41 ticks
+[23Feb2025 11:17:45.041] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[23Feb2025 11:18:08.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 11:18:08.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 11:21:20.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [A Glorious Feast]
+[23Feb2025 11:23:08.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 11:23:08.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 11:28:08.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 11:28:08.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 11:29:43.186] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.8 and blood value 5 for entity samurai_dynasty:twotailed
+[23Feb2025 11:30:30.287] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:telekinesis 1: [eaa571a0-89b1-4d3f-9252-fdf5b40db8dd]
+[23Feb2025 11:33:08.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 11:33:08.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 11:36:11.118] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2140ms or 42 ticks
+[23Feb2025 11:38:08.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 11:38:08.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 11:42:24.652] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [065480ec-cb26-4820-9687-8a2a9043cf6e]
+[23Feb2025 11:42:40.943] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:telekinesis 1: [065480ec-cb26-4820-9687-8a2a9043cf6e]
+[23Feb2025 11:43:08.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 11:43:08.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 11:47:10.703] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: c5b69405-fd8e-4c7c-b7d0-fd959c8ed274
+[23Feb2025 11:47:10.704] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: c5b69405-fd8e-4c7c-b7d0-fd959c8ed274
+[23Feb2025 11:47:10.704] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: c5b69405-fd8e-4c7c-b7d0-fd959c8ed274
+[23Feb2025 11:47:10.704] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: bc037efb-3fe7-4714-885c-a44f6e038dd1
+[23Feb2025 11:47:10.704] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: c5b69405-fd8e-4c7c-b7d0-fd959c8ed274
+[23Feb2025 11:47:29.895] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 1a38cd52-775f-4309-b5dc-5555b74eab77
+[23Feb2025 11:47:29.896] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 9a8bee70-eace-448c-97a9-39d877dc746a
+[23Feb2025 11:47:29.896] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 9a8bee70-eace-448c-97a9-39d877dc746a
+[23Feb2025 11:47:29.896] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 1a38cd52-775f-4309-b5dc-5555b74eab77
+[23Feb2025 11:47:29.896] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: feb8deed-3506-48fe-9288-734337520812
+[23Feb2025 11:48:08.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 11:48:08.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 11:48:36.108] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2004ms or 40 ticks
+[23Feb2025 11:53:08.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 11:53:08.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 11:53:14.686] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: d53799d7-4665-4b13-b8c2-5916bd2e4a6f
+[23Feb2025 11:53:14.686] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: d53799d7-4665-4b13-b8c2-5916bd2e4a6f
+[23Feb2025 11:53:14.686] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: d53799d7-4665-4b13-b8c2-5916bd2e4a6f
+[23Feb2025 11:53:14.686] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: d53799d7-4665-4b13-b8c2-5916bd2e4a6f
+[23Feb2025 11:53:14.686] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: d53799d7-4665-4b13-b8c2-5916bd2e4a6f
