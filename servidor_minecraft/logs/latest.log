@@ -1175,3 +1175,43 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [23Feb2025 06:43:25.988] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2172ms or 43 ticks
 [23Feb2025 06:43:41.636] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2400ms or 48 ticks
 [23Feb2025 06:43:59.672] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2139ms or 42 ticks
+[23Feb2025 06:48:26.511] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2116ms or 42 ticks
+[23Feb2025 06:49:05.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax suffocated in a wall
+[23Feb2025 06:49:12.727] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[23Feb2025 06:49:12.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[23Feb2025 06:49:12.727] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[23Feb2025 06:50:21.793] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.255.118.128:36019] logged in with entity id 25372 at (824.1404506662255, 11.973474032931566, 1347.8037976968087)
+[23Feb2025 06:50:21.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[23Feb2025 06:50:21.838] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[23Feb2025 06:50:21.838] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[23Feb2025 06:50:22.618] [Server thread/WARN] [de.teamlapen.werewolves.entities.player.werewolf.WerewolfPlayer/]: Cannot get Werewolf player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.werewolves.entities.player.werewolf.WerewolfPlayer.getOpt(WerewolfPlayer.java:92) ~[Werewolves-1.20.1-2.0.2.3.jar%23301!/:2.0.2.3]
+	at de.teamlapen.werewolves.entities.player.ModPlayerEventHandler.onEquipmentChange(ModPlayerEventHandler.java:117) ~[Werewolves-1.20.1-2.0.2.3.jar%23301!/:2.0.2.3]
+	at de.teamlapen.werewolves.entities.player.__ModPlayerEventHandler_onEquipmentChange_LivingEquipmentChangeEvent.invoke(.dynamic) ~[Werewolves-1.20.1-2.0.2.3.jar%23301!/:2.0.2.3]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21319_(LivingEntity.java:2410) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21315_(LivingEntity.java:2381) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2287) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[23Feb2025 06:50:25.040] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[23Feb2025 06:50:25.040] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[23Feb2025 06:50:25.049] [Server thread/WARN] [de.teamlapen.lib.network.ClientboundUpdateEntityPacket/]: There is nothing to update for entity ServerPlayer['morax'/25372, l='ServerLevel[world]', x=824.14, y=11.97, z=1347.80, removed=KILLED]
+[23Feb2025 06:50:44.276] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2099ms or 41 ticks
+[23Feb2025 06:56:23.217] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2036ms or 40 ticks
+[23Feb2025 06:57:01.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! -8.728183162555752,-0.07544406518948676,5.247329221373093
+[23Feb2025 06:57:22.733] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[23Feb2025 06:57:22.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[23Feb2025 06:57:22.733] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax

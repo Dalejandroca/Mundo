@@ -110,6 +110,7 @@
       "minecraft:windswept_hills": "2025-02-01 07:51:09 +0000",
       "minecraft:savanna_plateau": "2025-02-16 11:35:12 +0000",
       "minecraft:beach": "2025-02-22 06:49:22 +0000",
+      "minecraft:dark_forest": "2025-02-23 06:46:27 +0000",
       "minecraft:mangrove_swamp": "2025-02-16 11:31:48 +0000",
       "minecraft:sparse_jungle": "2025-02-16 11:31:35 +0000",
       "minecraft:river": "2025-02-01 07:04:10 +0000",
@@ -10370,57 +10371,9 @@
     },
     "done": true
   },
-  "vampirism:recipes/decorations/general/totem_top": {
-    "criteria": {
-      "has_obsidian": "2025-02-23 06:21:12 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_hedge": {
     "criteria": {
       "has_spruce_leaves": "2025-02-23 06:11:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-02-23 06:42:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-02-23 06:22:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-02-23 06:21:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-02-23 06:22:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-02-23 06:42:23 +0000"
-    },
-    "done": true
-  },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2025-02-23 06:41:06 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/general/totem_base": {
-    "criteria": {
-      "has_obsidian": "2025-02-23 06:21:12 +0000"
     },
     "done": true
   },
@@ -10430,9 +10383,39 @@
     },
     "done": true
   },
-  "vinery:recipes/loam": {
+  "vampirism:recipes/decorations/general/totem_top": {
     "criteria": {
-      "has_clay_ball": "2025-02-23 06:42:23 +0000"
+      "has_obsidian": "2025-02-23 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-23 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/totem_base": {
+    "criteria": {
+      "has_obsidian": "2025-02-23 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-23 06:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-23 06:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-23 06:22:09 +0000"
     },
     "done": true
   },
@@ -10448,9 +10431,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "artifacts:chest_slayer": {
     "criteria": {
-      "has_obsidian": "2025-02-23 06:21:12 +0000"
+      "kill_mimic": "2025-02-23 06:41:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-02-23 06:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-02-23 06:42:23 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/loam": {
+    "criteria": {
+      "has_clay_ball": "2025-02-23 06:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-02-23 06:43:00 +0000"
     },
     "done": true
   },
