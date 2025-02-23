@@ -10243,6 +10243,12 @@
     },
     "done": true
   },
+  "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
+    "criteria": {
+      "teleport_out_of_bumblezone": "2025-02-23 00:18:53 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/purple_sheet": {
     "criteria": {
       "has_purple_sheet": "2025-02-23 00:15:08 +0000"
