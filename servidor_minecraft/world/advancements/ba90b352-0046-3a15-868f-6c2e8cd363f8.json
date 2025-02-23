@@ -122,6 +122,7 @@
       "minecraft:grove": "2025-02-22 07:17:03 +0000",
       "minecraft:jagged_peaks": "2025-02-22 07:41:33 +0000",
       "minecraft:forest": "2025-02-15 08:47:18 +0000",
+      "minecraft:lush_caves": "2025-02-23 06:38:23 +0000",
       "minecraft:windswept_forest": "2025-02-15 08:50:59 +0000",
       "minecraft:ocean": "2025-02-16 11:52:41 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-22 06:48:24 +0000",
@@ -10381,6 +10382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-02-23 06:42:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-02-23 06:22:09 +0000"
@@ -10399,6 +10406,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-02-23 06:42:23 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-02-23 06:41:06 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/general/totem_base": {
     "criteria": {
       "has_obsidian": "2025-02-23 06:21:12 +0000"
@@ -10408,6 +10427,12 @@
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-02-23 06:17:41 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/loam": {
+    "criteria": {
+      "has_clay_ball": "2025-02-23 06:42:23 +0000"
     },
     "done": true
   },
