@@ -109,6 +109,7 @@
       "minecraft:frozen_river": "2025-02-16 07:43:17 +0000",
       "minecraft:birch_forest": "2025-02-18 05:01:16 +0000",
       "minecraft:windswept_hills": "2025-02-01 07:51:09 +0000",
+      "minecraft:bamboo_jungle": "2025-02-23 10:59:24 +0000",
       "minecraft:savanna_plateau": "2025-02-16 11:35:12 +0000",
       "minecraft:beach": "2025-02-22 06:49:22 +0000",
       "minecraft:dark_forest": "2025-02-23 06:46:27 +0000",
@@ -6948,12 +6949,16 @@
   },
   "bakery:main/get_everything": {
     "criteria": {
+      "bakery:strawberry_cupcake": "2025-02-23 11:06:14 +0000",
       "bakery:misslilitu_biscuit": "2025-02-23 10:37:56 +0000",
+      "bakery:apple_cupcake": "2025-02-23 11:05:50 +0000",
       "bakery:sweetberry_cupcake": "2025-02-23 10:37:55 +0000",
       "bakery:bun": "2025-02-23 10:39:05 +0000",
+      "bakery:cornet": "2025-02-23 11:05:49 +0000",
       "bakery:waffle": "2025-02-23 10:38:17 +0000",
       "bakery:sweetberry_cake": "2025-02-23 10:38:03 +0000",
       "bakery:jam_roll": "2025-02-08 07:14:57 +0000",
+      "bakery:croissant": "2025-02-23 11:05:50 +0000",
       "bakery:strawberry_glazed_cookie": "2025-02-23 10:37:57 +0000"
     },
     "done": false
@@ -10839,9 +10844,11 @@
   },
   "bakery:main/get_all_caked_goods": {
     "criteria": {
+      "bakery:strawberry_cupcake": "2025-02-23 11:06:14 +0000",
       "bakery:sweetberry_cake": "2025-02-23 10:38:03 +0000",
       "bakery:sweetberry_cupcake": "2025-02-23 10:37:55 +0000",
-      "bakery:strawberry_glazed_cookie": "2025-02-23 10:37:57 +0000"
+      "bakery:strawberry_glazed_cookie": "2025-02-23 10:37:57 +0000",
+      "bakery:apple_cupcake": "2025-02-23 11:05:50 +0000"
     },
     "done": false
   },
@@ -10860,6 +10867,7 @@
   "bakery:main/get_all_baked_goods": {
     "criteria": {
       "bakery:bun": "2025-02-23 10:39:05 +0000",
+      "bakery:croissant": "2025-02-23 11:05:50 +0000",
       "bakery:waffle": "2025-02-23 10:38:17 +0000"
     },
     "done": false
