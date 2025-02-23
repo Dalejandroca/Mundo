@@ -10884,21 +10884,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2025-02-23 11:17:59 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/sweet_berry_cheesecake_from_slices": {
     "criteria": {
       "has_sweet_berry_cheesecake_slice": "2025-02-23 10:45:22 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/rice_roll_medley_block": {
-    "criteria": {
-      "has_rice_roll": "2025-02-23 10:45:46 +0000"
     },
     "done": true
   },
@@ -10908,21 +10896,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/rice_roll_medley_block": {
+    "criteria": {
+      "has_rice_roll": "2025-02-23 10:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-02-23 11:17:59 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/jungle": {
     "criteria": {
       "has_wood": "2025-02-23 11:17:59 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/place_feast": {
-    "criteria": {
-      "honey_glazed_ham": "2025-02-23 11:21:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-02-23 11:17:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "honey_glazed_ham": "2025-02-23 11:21:20 +0000"
     },
     "done": true
   },

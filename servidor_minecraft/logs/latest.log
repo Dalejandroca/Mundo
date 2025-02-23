@@ -1495,3 +1495,15 @@ java.lang.Throwable: null
 [23Feb2025 11:21:20.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [A Glorious Feast]
 [23Feb2025 11:36:11.118] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2140ms or 42 ticks
 [23Feb2025 11:48:36.108] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2004ms or 40 ticks
+[23Feb2025 11:59:53.739] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Disconnected
+[23Feb2025 11:59:53.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[23Feb2025 11:59:53.742] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[23Feb2025 12:00:39.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.255.118.128:45785] logged in with entity id 253564 at (1203.6195542125308, 126.0, 783.5863530626477)
+[23Feb2025 12:00:39.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[23Feb2025 12:00:39.374] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[23Feb2025 12:00:39.375] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[23Feb2025 12:00:40.207] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2789ms or 55 ticks
+[23Feb2025 12:00:41.372] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[23Feb2025 12:00:41.373] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[23Feb2025 12:02:26.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was cooked alive
+[23Feb2025 12:03:06.122] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2255ms or 45 ticks
