@@ -105,12 +105,14 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-02-15 08:57:25 +0000",
       "minecraft:taiga": "2025-02-15 08:51:13 +0000",
+      "minecraft:deep_ocean": "2025-02-23 10:03:47 +0000",
       "minecraft:frozen_river": "2025-02-16 07:43:17 +0000",
       "minecraft:birch_forest": "2025-02-18 05:01:16 +0000",
       "minecraft:windswept_hills": "2025-02-01 07:51:09 +0000",
       "minecraft:savanna_plateau": "2025-02-16 11:35:12 +0000",
       "minecraft:beach": "2025-02-22 06:49:22 +0000",
       "minecraft:dark_forest": "2025-02-23 06:46:27 +0000",
+      "minecraft:stony_peaks": "2025-02-23 10:17:46 +0000",
       "minecraft:mangrove_swamp": "2025-02-16 11:31:48 +0000",
       "minecraft:sparse_jungle": "2025-02-16 11:31:35 +0000",
       "minecraft:river": "2025-02-01 07:04:10 +0000",
@@ -122,6 +124,7 @@
       "minecraft:swamp": "2025-02-01 07:03:46 +0000",
       "minecraft:grove": "2025-02-22 07:17:03 +0000",
       "minecraft:jagged_peaks": "2025-02-22 07:41:33 +0000",
+      "minecraft:cold_ocean": "2025-02-23 09:49:27 +0000",
       "minecraft:forest": "2025-02-15 08:47:18 +0000",
       "minecraft:lush_caves": "2025-02-23 06:38:23 +0000",
       "minecraft:windswept_forest": "2025-02-15 08:50:59 +0000",
@@ -199,6 +202,7 @@
       "woodland": "2025-02-16 11:37:13 +0000",
       "shrubland": "2025-02-01 05:08:26 +0000",
       "snowblossom_grove": "2025-02-16 08:57:34 +0000",
+      "rocky_shrubland": "2025-02-23 10:06:02 +0000",
       "scrubland": "2025-02-01 07:53:06 +0000",
       "bayou": "2025-02-16 11:29:57 +0000",
       "floodplain": "2025-02-16 11:31:55 +0000",
@@ -212,6 +216,7 @@
       "old_growth_woodland": "2025-02-16 11:27:24 +0000",
       "maple_woods": "2025-02-15 18:42:15 +0000",
       "orchard": "2025-02-16 11:57:21 +0000",
+      "field": "2025-02-23 09:57:17 +0000",
       "overgrown_greens": "2025-02-22 06:49:37 +0000",
       "mediterranean_forest": "2025-02-16 11:27:25 +0000",
       "bog": "2025-02-01 09:12:59 +0000",
@@ -219,6 +224,7 @@
       "hot_springs": "2025-02-15 19:03:36 +0000",
       "spider_nest": "2025-02-01 07:06:09 +0000",
       "old_growth_dead_forest": "2025-02-16 12:06:57 +0000",
+      "redwood_forest": "2025-02-23 09:45:58 +0000",
       "aspen_glade": "2025-02-16 11:59:04 +0000",
       "dune_beach": "2025-02-16 11:53:22 +0000",
       "seasonal_forest": "2025-02-16 11:59:37 +0000",
@@ -10479,6 +10485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-02-23 09:52:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-23 08:41:26 +0000"
@@ -10506,6 +10518,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-23 09:39:17 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-02-23 07:21:51 +0000"
@@ -10515,6 +10533,12 @@
   "securitycraft:recipes/redstone/reinforced_stone_pressure_plate": {
     "criteria": {
       "has_block": "2025-02-23 08:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-02-23 09:53:28 +0000"
     },
     "done": true
   },
@@ -10599,6 +10623,12 @@
   "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
     "criteria": {
       "has_stick": "2025-02-23 09:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-23 09:39:17 +0000"
     },
     "done": true
   },
@@ -10755,6 +10785,12 @@
   "securitycraft:recipes/misc/keypad_item": {
     "criteria": {
       "has_the_recipe": "2025-02-23 08:47:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-23 09:53:28 +0000"
     },
     "done": true
   },

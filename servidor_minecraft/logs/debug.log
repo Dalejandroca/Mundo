@@ -8270,3 +8270,325 @@ java.lang.Throwable: null
 [23Feb2025 09:32:52.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Feb2025 09:37:52.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Feb2025 09:37:52.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 09:42:14.646] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:telekinesis 1: [9e38e2a4-73fc-46eb-b96d-8038e1f0e5e3]
+[23Feb2025 09:42:47.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1212, y=111, z=807} BlockPos{x=1212, y=109, z=808}
+[23Feb2025 09:42:52.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 09:42:52.044] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 09:45:07.142] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2292ms or 45 ticks
+[23Feb2025 09:45:37.600] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[23Feb2025 09:46:18.889] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2010ms or 40 ticks
+[23Feb2025 09:46:56.595] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2075ms or 41 ticks
+[23Feb2025 09:47:01.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! -17.43562182750634,-1.829336870296757,-1.8287188186702679
+[23Feb2025 09:47:08.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! -17.539473658193998,-2.878324456468448,-2.846232971004838
+[23Feb2025 09:47:16.432] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 4534ms or 90 ticks
+[23Feb2025 09:47:16.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3714ms or 74 ticks behind
+[23Feb2025 09:47:16.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! -17.01140738893841,-2.4625469979028622,-2.7823550250307107
+[23Feb2025 09:47:20.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! -16.939406175904935,-3.8464148580320057,-2.7698976454803415
+[23Feb2025 09:47:55.327] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2137ms or 42 ticks
+[23Feb2025 09:47:56.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 09:47:56.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 09:48:21.065] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2034ms or 40 ticks
+[23Feb2025 09:48:49.533] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3281ms or 65 ticks
+[23Feb2025 09:48:49.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! -17.988669459645052,-3.104659541642235,-2.428642344666514
+[23Feb2025 09:49:35.920] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2010ms or 40 ticks
+[23Feb2025 09:49:41.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! -15.155504263778539,-1.9944709527607785,-8.46081409536987
+[23Feb2025 09:50:18.048] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2111ms or 42 ticks
+[23Feb2025 09:50:36.666] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexsmobs:tiger
+[23Feb2025 09:50:36.666] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexsmobs:tiger
+[23Feb2025 09:50:36.752] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.94 and blood value 0 for entity alexsmobs:moose
+[23Feb2025 09:50:54.536] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 9.2 and blood value 15 for entity alexsmobs:tusklin
+[23Feb2025 09:51:11.467] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.04 and blood value 7 for entity alexsmobs:froststalker
+[23Feb2025 09:51:11.467] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.04 and blood value 7 for entity alexsmobs:froststalker
+[23Feb2025 09:51:11.467] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.04 and blood value 7 for entity alexsmobs:froststalker
+[23Feb2025 09:51:41.951] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2086ms or 41 ticks
+[23Feb2025 09:52:42.138] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[23Feb2025 09:52:46.292] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[23Feb2025 09:52:51.290] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[23Feb2025 09:52:55.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 09:52:55.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 09:53:16.442] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[23Feb2025 09:53:29.239] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[23Feb2025 09:53:38.239] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[23Feb2025 09:53:54.491] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[23Feb2025 09:56:54.875] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2006ms or 40 ticks
+[23Feb2025 09:57:49.712] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[23Feb2025 09:57:55.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 09:57:55.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 09:57:57.955] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[23Feb2025 09:59:07.332] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2057ms or 41 ticks
+[23Feb2025 10:01:55.862] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2019ms or 40 ticks
+[23Feb2025 10:02:55.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 10:02:56.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 10:03:07.259] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2022ms or 40 ticks
+[23Feb2025 10:03:51.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 6.805338800511436,-1.9644247757453428,-15.951616878228435
+[23Feb2025 10:03:52.280] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2694ms or 53 ticks
+[23Feb2025 10:03:56.242] [Worker-Main-131/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Feb2025 10:03:56.243] [Worker-Main-131/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Feb2025 10:04:15.226] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3684, y=55, z=130}
+[23Feb2025 10:04:15.235] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3684, y=55, z=130}
+[23Feb2025 10:04:19.053] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3641, y=62, z=107}
+[23Feb2025 10:04:19.330] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3641, y=62, z=107}
+[23Feb2025 10:04:19.333] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3664, y=55, z=130}
+[23Feb2025 10:04:19.333] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3670, y=55, z=117}
+[23Feb2025 10:04:19.334] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3677, y=55, z=130}
+[23Feb2025 10:04:19.334] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3684, y=55, z=130}
+[23Feb2025 10:04:19.402] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3641, y=62, z=107}
+[23Feb2025 10:04:19.403] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3664, y=55, z=130}
+[23Feb2025 10:04:19.404] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3664, y=55, z=137}
+[23Feb2025 10:04:19.404] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3677, y=55, z=130}
+[23Feb2025 10:04:19.404] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3684, y=55, z=130}
+[23Feb2025 10:04:20.831] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2012ms or 40 ticks
+[23Feb2025 10:04:22.774] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3664, y=74, z=144}
+[23Feb2025 10:04:22.778] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3641, y=62, z=107}
+[23Feb2025 10:04:22.780] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3650, y=55, z=124}
+[23Feb2025 10:04:22.781] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3663, y=55, z=124}
+[23Feb2025 10:04:22.781] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3664, y=55, z=130}
+[23Feb2025 10:04:22.781] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3663, y=55, z=131}
+[23Feb2025 10:04:22.781] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3664, y=55, z=137}
+[23Feb2025 10:04:22.794] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3664, y=74, z=144}
+[23Feb2025 10:04:22.815] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3664, y=74, z=144}
+[23Feb2025 10:04:22.818] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3641, y=62, z=107}
+[23Feb2025 10:04:22.827] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3664, y=74, z=144}
+[23Feb2025 10:04:22.836] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3661, y=69, z=112}
+[23Feb2025 10:04:22.836] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3641, y=62, z=107}
+[23Feb2025 10:04:22.841] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3650, y=55, z=124}
+[23Feb2025 10:04:22.842] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3663, y=55, z=124}
+[23Feb2025 10:04:22.842] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3664, y=55, z=130}
+[23Feb2025 10:04:22.842] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3663, y=55, z=117}
+[23Feb2025 10:04:22.843] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3670, y=55, z=117}
+[23Feb2025 10:04:28.201] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[23Feb2025 10:04:29.017] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3664, y=74, z=144}
+[23Feb2025 10:04:29.019] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3641, y=62, z=107}
+[23Feb2025 10:04:29.028] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3664, y=74, z=144}
+[23Feb2025 10:04:29.033] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3641, y=62, z=107}
+[23Feb2025 10:04:29.076] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3664, y=74, z=144}
+[23Feb2025 10:04:29.085] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3641, y=62, z=107}
+[23Feb2025 10:04:29.092] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3664, y=74, z=144}
+[23Feb2025 10:04:46.409] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2032ms or 40 ticks
+[23Feb2025 10:05:58.873] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2073ms or 41 ticks
+[23Feb2025 10:07:49.049] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blight 1: [adbde2c5-062e-43d4-9c80-bffdd479f76b]
+[23Feb2025 10:07:55.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 10:07:55.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 10:08:03.945] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:telekinesis 1: [adbde2c5-062e-43d4-9c80-bffdd479f76b]
+[23Feb2025 10:11:41.236] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2042ms or 40 ticks
+[23Feb2025 10:12:40.343] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:platypus
+[23Feb2025 10:12:40.343] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:platypus
+[23Feb2025 10:12:48.130] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3113, y=-12, z=299}
+[23Feb2025 10:12:48.492] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3113, y=-12, z=299}
+[23Feb2025 10:12:48.700] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3113, y=-12, z=299}
+[23Feb2025 10:12:48.700] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3119, y=-12, z=311}
+[23Feb2025 10:12:48.701] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3108, y=-12, z=312}
+[23Feb2025 10:12:49.755] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3130, y=-12, z=298}
+[23Feb2025 10:12:49.756] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3139, y=-12, z=296}
+[23Feb2025 10:12:49.757] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3113, y=-12, z=299}
+[23Feb2025 10:12:49.794] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3130, y=-12, z=298}
+[23Feb2025 10:12:49.795] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3113, y=-12, z=299}
+[23Feb2025 10:12:49.795] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3129, y=-12, z=285}
+[23Feb2025 10:12:49.796] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3128, y=-12, z=298}
+[23Feb2025 10:12:49.931] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3113, y=-12, z=299}
+[23Feb2025 10:12:49.932] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3128, y=-12, z=298}
+[23Feb2025 10:12:50.988] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3137, y=-12, z=276}
+[23Feb2025 10:12:50.988] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3161, y=1, z=268}
+[23Feb2025 10:12:50.993] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3161, y=1, z=268}
+[23Feb2025 10:12:50.993] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3174, y=1, z=266}
+[23Feb2025 10:12:51.006] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3132, y=-12, z=283}
+[23Feb2025 10:12:51.006] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3131, y=-12, z=266}
+[23Feb2025 10:12:51.006] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3130, y=-12, z=298}
+[23Feb2025 10:12:51.007] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3129, y=-12, z=285}
+[23Feb2025 10:12:51.012] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3130, y=-12, z=298}
+[23Feb2025 10:12:51.012] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3137, y=-12, z=276}
+[23Feb2025 10:12:51.013] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3139, y=-12, z=296}
+[23Feb2025 10:12:51.965] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3198, y=1, z=271}
+[23Feb2025 10:12:51.974] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3191, y=1, z=265}
+[23Feb2025 10:12:51.975] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3185, y=1, z=260}
+[23Feb2025 10:12:51.975] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3197, y=1, z=260}
+[23Feb2025 10:12:51.976] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3198, y=1, z=271}
+[23Feb2025 10:12:52.008] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3173, y=1, z=267}
+[23Feb2025 10:12:52.009] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3191, y=1, z=265}
+[23Feb2025 10:12:52.009] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3161, y=1, z=268}
+[23Feb2025 10:12:52.010] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3170, y=-13, z=258}
+[23Feb2025 10:12:52.010] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3185, y=1, z=260}
+[23Feb2025 10:12:52.011] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3174, y=1, z=266}
+[23Feb2025 10:12:52.124] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3158, y=1, z=253}
+[23Feb2025 10:12:52.125] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3173, y=1, z=267}
+[23Feb2025 10:12:52.125] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3137, y=-12, z=276}
+[23Feb2025 10:12:52.126] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3161, y=1, z=268}
+[23Feb2025 10:12:52.126] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3170, y=-13, z=258}
+[23Feb2025 10:12:52.237] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3138, y=-12, z=265}
+[23Feb2025 10:12:52.238] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3158, y=1, z=253}
+[23Feb2025 10:12:52.238] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3137, y=-12, z=276}
+[23Feb2025 10:12:52.267] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3138, y=-12, z=265}
+[23Feb2025 10:12:52.268] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3132, y=-12, z=283}
+[23Feb2025 10:12:52.268] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3131, y=-12, z=266}
+[23Feb2025 10:12:52.940] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3185, y=1, z=260}
+[23Feb2025 10:12:52.968] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3170, y=-13, z=258}
+[23Feb2025 10:12:52.968] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3185, y=1, z=260}
+[23Feb2025 10:12:53.338] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3153, y=-12, z=228}
+[23Feb2025 10:12:53.338] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3158, y=1, z=253}
+[23Feb2025 10:12:53.338] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3170, y=-13, z=258}
+[23Feb2025 10:12:53.345] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3152, y=-12, z=224}
+[23Feb2025 10:12:53.350] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3138, y=-12, z=265}
+[23Feb2025 10:12:53.351] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3158, y=1, z=253}
+[23Feb2025 10:12:53.489] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3152, y=-12, z=224}
+[23Feb2025 10:12:53.493] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3138, y=-12, z=265}
+[23Feb2025 10:12:54.373] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3168, y=-12, z=224}
+[23Feb2025 10:12:54.397] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3153, y=-12, z=228}
+[23Feb2025 10:12:54.397] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3167, y=-12, z=213}
+[23Feb2025 10:12:54.398] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3158, y=-12, z=215}
+[23Feb2025 10:12:54.398] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3168, y=-12, z=224}
+[23Feb2025 10:12:54.483] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3152, y=-12, z=224}
+[23Feb2025 10:12:54.678] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3152, y=-12, z=224}
+[23Feb2025 10:12:54.685] [Worker-Main-67/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3127, y=2, z=236}
+[23Feb2025 10:12:54.965] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3152, y=-12, z=224}
+[23Feb2025 10:12:54.976] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3152, y=-12, z=224}
+[23Feb2025 10:12:55.397] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3168, y=-12, z=224}
+[23Feb2025 10:12:55.398] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3168, y=-12, z=211}
+[23Feb2025 10:12:55.730] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3124, y=-12, z=223}
+[23Feb2025 10:12:55.731] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3158, y=-12, z=200}
+[23Feb2025 10:12:55.737] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3167, y=-12, z=213}
+[23Feb2025 10:12:55.738] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3167, y=-12, z=198}
+[23Feb2025 10:12:55.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 10:12:55.739] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3158, y=-12, z=215}
+[23Feb2025 10:12:55.740] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3168, y=-12, z=224}
+[23Feb2025 10:12:55.740] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3158, y=-12, z=200}
+[23Feb2025 10:12:55.741] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3168, y=-12, z=211}
+[23Feb2025 10:12:55.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 10:12:55.986] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3124, y=-12, z=223}
+[23Feb2025 10:12:55.987] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3123, y=-12, z=217}
+[23Feb2025 10:12:55.987] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3111, y=-12, z=218}
+[23Feb2025 10:12:55.987] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3122, y=-12, z=208}
+[23Feb2025 10:12:56.268] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3123, y=-12, z=217}
+[23Feb2025 10:12:56.269] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3111, y=-12, z=218}
+[23Feb2025 10:12:56.269] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3122, y=-12, z=208}
+[23Feb2025 10:12:56.270] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3108, y=-12, z=217}
+[23Feb2025 10:12:56.270] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3096, y=-12, z=218}
+[23Feb2025 10:12:56.270] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3107, y=-12, z=208}
+[23Feb2025 10:12:56.449] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2027ms or 40 ticks
+[23Feb2025 10:12:56.617] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3152, y=-12, z=224}
+[23Feb2025 10:12:56.720] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3152, y=-12, z=224}
+[23Feb2025 10:12:56.781] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3108, y=-12, z=217}
+[23Feb2025 10:12:56.782] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3096, y=-12, z=218}
+[23Feb2025 10:12:56.782] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3088, y=-12, z=216}
+[23Feb2025 10:12:56.783] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3107, y=-12, z=208}
+[23Feb2025 10:12:57.676] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3168, y=-12, z=211}
+[23Feb2025 10:12:57.734] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3167, y=-12, z=198}
+[23Feb2025 10:12:57.734] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3158, y=-12, z=200}
+[23Feb2025 10:12:57.735] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3165, y=-12, z=180}
+[23Feb2025 10:12:57.735] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3168, y=-12, z=211}
+[23Feb2025 10:12:57.744] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3158, y=-12, z=200}
+[23Feb2025 10:12:57.858] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3122, y=-12, z=208}
+[23Feb2025 10:12:57.905] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3122, y=-12, z=208}
+[23Feb2025 10:12:57.907] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3107, y=-12, z=208}
+[23Feb2025 10:12:57.944] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3088, y=-12, z=216}
+[23Feb2025 10:12:57.944] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3107, y=-12, z=208}
+[23Feb2025 10:12:58.951] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3166, y=-12, z=191}
+[23Feb2025 10:12:59.031] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3160, y=-12, z=180}
+[23Feb2025 10:12:59.037] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3165, y=-12, z=180}
+[23Feb2025 10:12:59.037] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3166, y=-12, z=191}
+[23Feb2025 10:12:59.037] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3160, y=-12, z=180}
+[23Feb2025 10:12:59.793] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3088, y=-12, z=216}
+[23Feb2025 10:12:59.793] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3087, y=-12, z=203}
+[23Feb2025 10:12:59.988] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3088, y=-12, z=216}
+[23Feb2025 10:12:59.989] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3087, y=-12, z=203}
+[23Feb2025 10:13:05.541] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3087, y=-12, z=203}
+[23Feb2025 10:13:05.767] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3087, y=-12, z=203}
+[23Feb2025 10:13:28.468] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2006ms or 40 ticks
+[23Feb2025 10:15:19.292] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2033ms or 40 ticks
+[23Feb2025 10:15:59.669] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.73 and blood value 12 for entity alexsmobs:gelada_monkey
+[23Feb2025 10:16:01.902] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3216, y=4, z=-816}
+[23Feb2025 10:16:02.953] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3216, y=4, z=-816}
+[23Feb2025 10:16:06.410] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3202, y=4, z=-780}
+[23Feb2025 10:16:06.801] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3216, y=4, z=-816}
+[23Feb2025 10:16:06.805] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3203, y=4, z=-770}
+[23Feb2025 10:16:06.806] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3208, y=4, z=-769}
+[23Feb2025 10:16:06.807] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3202, y=4, z=-780}
+[23Feb2025 10:16:09.665] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3216, y=4, z=-816}
+[23Feb2025 10:16:09.669] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3215, y=4, z=-788}
+[23Feb2025 10:16:09.669] [Worker-Main-67/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3203, y=4, z=-770}
+[23Feb2025 10:16:09.960] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3216, y=4, z=-816}
+[23Feb2025 10:16:10.064] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3216, y=4, z=-816}
+[23Feb2025 10:16:13.589] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3216, y=4, z=-816}
+[23Feb2025 10:16:13.618] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3216, y=4, z=-816}
+[23Feb2025 10:16:13.623] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3215, y=4, z=-788}
+[23Feb2025 10:16:13.623] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3203, y=4, z=-824}
+[23Feb2025 10:16:26.425] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3216, y=4, z=-816}
+[23Feb2025 10:16:27.629] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2061ms or 41 ticks
+[23Feb2025 10:16:40.804] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 11.34 and blood value 15 for entity alexsmobs:sunbird
+[23Feb2025 10:16:44.067] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[23Feb2025 10:16:44.068] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[23Feb2025 10:16:44.068] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[23Feb2025 10:16:44.068] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[23Feb2025 10:16:44.506] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3216, y=4, z=-816}
+[23Feb2025 10:16:45.090] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3216, y=4, z=-816}
+[23Feb2025 10:16:45.094] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3257, y=4, z=-800}
+[23Feb2025 10:16:45.104] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3257, y=4, z=-800}
+[23Feb2025 10:16:45.104] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3275, y=4, z=-796}
+[23Feb2025 10:16:45.104] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3264, y=4, z=-795}
+[23Feb2025 10:16:45.120] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3275, y=4, z=-796}
+[23Feb2025 10:16:45.121] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3264, y=4, z=-795}
+[23Feb2025 10:16:45.121] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3265, y=17, z=-809}
+[23Feb2025 10:16:46.732] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3216, y=4, z=-816}
+[23Feb2025 10:16:46.738] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3245, y=15, z=-808}
+[23Feb2025 10:16:46.739] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3245, y=4, z=-824}
+[23Feb2025 10:16:46.764] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3245, y=15, z=-808}
+[23Feb2025 10:16:46.765] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3275, y=17, z=-810}
+[23Feb2025 10:16:46.765] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3245, y=4, z=-824}
+[23Feb2025 10:16:46.816] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3275, y=17, z=-810}
+[23Feb2025 10:16:46.817] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3275, y=4, z=-801}
+[23Feb2025 10:16:46.818] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3265, y=17, z=-809}
+[23Feb2025 10:16:46.818] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3276, y=17, z=-815}
+[23Feb2025 10:16:48.177] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3219, y=4, z=-825}
+[23Feb2025 10:16:48.178] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3201, y=4, z=-837}
+[23Feb2025 10:16:48.178] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3203, y=4, z=-824}
+[23Feb2025 10:16:48.179] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3212, y=4, z=-830}
+[23Feb2025 10:16:48.185] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3201, y=4, z=-837}
+[23Feb2025 10:16:48.185] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3186, y=2, z=-848}
+[23Feb2025 10:16:48.353] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3186, y=2, z=-848}
+[23Feb2025 10:16:48.463] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3186, y=2, z=-848}
+[23Feb2025 10:16:48.772] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3240, y=4, z=-817}
+[23Feb2025 10:16:48.773] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3219, y=4, z=-825}
+[23Feb2025 10:16:49.254] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3240, y=4, z=-817}
+[23Feb2025 10:16:49.255] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3258, y=4, z=-825}
+[23Feb2025 10:16:49.255] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3245, y=4, z=-824}
+[23Feb2025 10:16:49.278] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3258, y=4, z=-825}
+[23Feb2025 10:16:49.279] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3245, y=4, z=-824}
+[23Feb2025 10:16:49.280] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3257, y=4, z=-830}
+[23Feb2025 10:16:49.319] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3276, y=17, z=-815}
+[23Feb2025 10:16:50.850] [Worker-Main-84/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3186, y=2, z=-848}
+[23Feb2025 10:16:50.949] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3186, y=2, z=-848}
+[23Feb2025 10:16:50.966] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3201, y=4, z=-837}
+[23Feb2025 10:16:50.967] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3187, y=4, z=-838}
+[23Feb2025 10:16:50.967] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3196, y=4, z=-839}
+[23Feb2025 10:16:50.968] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3186, y=2, z=-848}
+[23Feb2025 10:16:51.363] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3201, y=4, z=-837}
+[23Feb2025 10:16:51.363] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3212, y=4, z=-830}
+[23Feb2025 10:16:51.364] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3196, y=4, z=-839}
+[23Feb2025 10:16:51.695] [Worker-Main-130/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3257, y=4, z=-830}
+[23Feb2025 10:16:52.522] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3178, y=-3, z=-853}
+[23Feb2025 10:16:52.524] [Worker-Main-129/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3177, y=-3, z=-864}
+[23Feb2025 10:16:52.936] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3187, y=4, z=-838}
+[23Feb2025 10:16:52.937] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3196, y=4, z=-839}
+[23Feb2025 10:16:52.937] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3178, y=-3, z=-853}
+[23Feb2025 10:16:53.132] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3196, y=4, z=-839}
+[23Feb2025 10:16:53.823] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3178, y=-3, z=-853}
+[23Feb2025 10:16:53.836] [Worker-Main-131/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3178, y=-3, z=-853}
+[23Feb2025 10:17:39.359] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.86 and blood value 13 for entity alexsmobs:anteater
+[23Feb2025 10:17:55.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 10:17:55.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 10:18:02.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 0.2733275141322338,-1.916188572433498,-17.68378982434956
+[23Feb2025 10:18:04.058] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2583ms or 51 ticks
+[23Feb2025 10:18:27.533] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2124ms or 42 ticks
+[23Feb2025 10:18:38.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 2.5277553850269214,15.291858629276135,-8.351393280601997
+[23Feb2025 10:18:40.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 3.695605457574402,0.4041728158423439,-17.653884236763815
+[23Feb2025 10:18:42.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[23Feb2025 10:18:45.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 4.036223878195415,-0.5504156836296943,-17.64154534334193
+[23Feb2025 10:18:46.422] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2224ms or 44 ticks
+[23Feb2025 10:18:50.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 4.120705462687056,-1.0807927468442813,-17.381135728642903
+[23Feb2025 10:18:53.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 4.110169263524767,-1.3329991795050375,-17.33671855271882
+[23Feb2025 10:19:03.298] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2710ms or 54 ticks
+[23Feb2025 10:19:05.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 4.061985332767108,-1.3739595761085184,-17.13344051481772
+[23Feb2025 10:19:06.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9057ms or 181 ticks behind
+[23Feb2025 10:19:38.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Disconnected
+[23Feb2025 10:19:38.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[23Feb2025 10:19:38.691] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of morax
+[23Feb2025 10:19:38.692] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
