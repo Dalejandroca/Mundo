@@ -1158,3 +1158,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [23Feb2025 06:11:22.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1233, y=82, z=841} BlockPos{x=1236, y=83, z=842}
 [23Feb2025 06:11:22.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1233, y=82, z=840} BlockPos{x=1236, y=83, z=842}
 [23Feb2025 06:11:22.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1235, y=80, z=835} BlockPos{x=1233, y=80, z=836}
+[23Feb2025 06:17:41.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Surge Protector]
+[23Feb2025 06:21:12.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [Ice Bucket Challenge]
