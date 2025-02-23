@@ -4223,6 +4223,7 @@
       "minecraft:piglin": "2025-02-01 11:58:13 +0000",
       "minecraft:enderman": "2025-02-01 10:25:01 +0000",
       "minecraft:stray": "2025-02-16 09:27:09 +0000",
+      "minecraft:endermite": "2025-02-23 00:16:00 +0000",
       "minecraft:zombie": "2025-02-01 07:16:26 +0000",
       "minecraft:zombie_villager": "2025-02-01 20:44:53 +0000"
     },
@@ -10181,6 +10182,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-02-23 00:15:08 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
       "ferrous_wroughtnaut": "2025-02-22 23:05:41 +0000"
@@ -10206,6 +10213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-02-23 00:15:08 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_grottol": {
     "criteria": {
       "grottol": "2025-02-22 22:15:39 +0000"
@@ -10221,6 +10234,18 @@
   "minecraft:recipes/food/honey_bottle": {
     "criteria": {
       "has_honey_block": "2025-02-22 23:48:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/purple_cushion": {
+    "criteria": {
+      "has_purple_cushion": "2025-02-23 00:15:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/purple_sheet": {
+    "criteria": {
+      "has_purple_sheet": "2025-02-23 00:15:08 +0000"
     },
     "done": true
   },
@@ -10240,15 +10265,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-02-23 00:09:52 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_purple": {
+    "criteria": {
+      "has_wool": "2025-02-23 00:15:08 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
     "criteria": {
       "bee_hit_wrath_of_the_hive": "2025-02-22 23:48:51 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-02-23 00:15:08 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:structures/enter_garden": {
     "criteria": {
       "in_hanging_garden": "2025-02-22 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/building_blocks/tainted_flesh_block": {
+    "criteria": {
+      "has_withered_flesh": "2025-02-23 00:08:13 +0000"
     },
     "done": true
   },
