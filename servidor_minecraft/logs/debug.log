@@ -10363,3 +10363,31 @@ java.lang.Throwable: null
 [23Feb2025 12:38:08.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Feb2025 12:43:08.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Feb2025 12:43:08.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 12:45:36.533] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 3fc3a327-51b5-4f4b-9eff-9eda28300500
+[23Feb2025 12:45:36.533] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 3fc3a327-51b5-4f4b-9eff-9eda28300500
+[23Feb2025 12:45:36.533] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 3fc3a327-51b5-4f4b-9eff-9eda28300500
+[23Feb2025 12:45:36.533] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 3fc3a327-51b5-4f4b-9eff-9eda28300500
+[23Feb2025 12:45:36.533] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 3fc3a327-51b5-4f4b-9eff-9eda28300500
+[23Feb2025 12:48:08.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 12:48:08.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 12:53:07.983] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f0da0b74-0eca-4b30-b649-8be7e1eaffab
+[23Feb2025 12:53:07.983] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f0da0b74-0eca-4b30-b649-8be7e1eaffab
+[23Feb2025 12:53:07.983] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f0da0b74-0eca-4b30-b649-8be7e1eaffab
+[23Feb2025 12:53:07.983] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f0da0b74-0eca-4b30-b649-8be7e1eaffab
+[23Feb2025 12:53:07.983] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f0da0b74-0eca-4b30-b649-8be7e1eaffab
+[23Feb2025 12:53:08.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 12:53:08.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 12:54:45.537] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 7e2441d8-54d7-4dd5-91ef-d2ad0d873b02
+[23Feb2025 12:54:45.537] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 7e2441d8-54d7-4dd5-91ef-d2ad0d873b02
+[23Feb2025 12:54:45.537] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 7e2441d8-54d7-4dd5-91ef-d2ad0d873b02
+[23Feb2025 12:54:45.537] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 7e2441d8-54d7-4dd5-91ef-d2ad0d873b02
+[23Feb2025 12:58:08.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 12:58:08.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 13:01:01.941] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: morax has new faction level vampirism:vampire 1
+[23Feb2025 13:01:38.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> a
+[23Feb2025 13:02:22.162] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2309ms or 46 ticks
+[23Feb2025 13:02:29.726] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: morax is leaving faction vampirism:vampire
+[23Feb2025 13:02:29.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax died
+[23Feb2025 13:03:00.516] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2374ms or 47 ticks
+[23Feb2025 13:03:09.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 13:03:09.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

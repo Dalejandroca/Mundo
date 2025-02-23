@@ -2827,6 +2827,7 @@
       "minecraft:creeper": "2025-02-02 05:28:53 +0000",
       "minecraft:slime": "2025-02-01 08:38:28 +0000",
       "minecraft:phantom": "2025-02-22 06:09:45 +0000",
+      "minecraft:zombified_piglin": "2025-02-23 12:54:54 +0000",
       "minecraft:witch": "2025-02-15 07:15:09 +0000",
       "minecraft:cave_spider": "2025-02-01 07:06:43 +0000",
       "minecraft:piglin": "2025-02-23 09:00:46 +0000",
@@ -11052,11 +11053,23 @@
     },
     "done": true
   },
-  "vampirism:hunter/technology": {
+  "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
-      "advanced": "2025-02-23 12:40:01 +0000"
+      "has_smooth_stone": "2025-02-23 12:47:44 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-23 12:47:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-23 12:47:44 +0000"
+    },
+    "done": true
   },
   "call_of_yucutan:obtain_both_discs": {
     "criteria": {
