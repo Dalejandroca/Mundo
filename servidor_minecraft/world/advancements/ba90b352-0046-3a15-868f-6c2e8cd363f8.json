@@ -126,6 +126,7 @@
       "minecraft:lush_caves": "2025-02-23 06:38:23 +0000",
       "minecraft:windswept_forest": "2025-02-15 08:50:59 +0000",
       "minecraft:ocean": "2025-02-16 11:52:41 +0000",
+      "minecraft:jungle": "2025-02-23 07:11:31 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-22 06:48:24 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-16 11:40:51 +0000",
       "minecraft:flower_forest": "2025-02-01 05:08:34 +0000",
@@ -459,6 +460,7 @@
       "rotten_flesh": "2025-02-01 10:10:47 +0000",
       "glow_berries": "2025-02-15 19:37:01 +0000",
       "salmon": "2025-02-15 08:32:44 +0000",
+      "melon_slice": "2025-02-23 07:21:57 +0000",
       "golden_carrot": "2025-02-15 07:14:36 +0000",
       "cooked_rabbit": "2025-02-16 12:04:23 +0000",
       "cooked_chicken": "2025-02-16 05:46:32 +0000",
@@ -10458,6 +10460,60 @@
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2025-02-23 06:43:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-02-23 07:21:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-02-23 07:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-02-23 07:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-02-23 07:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-02-23 07:24:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-02-23 07:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-02-23 07:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-23 07:23:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-02-23 07:26:51 +0000"
     },
     "done": true
   },
