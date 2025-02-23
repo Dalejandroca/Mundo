@@ -8,3 +8,11 @@
 [23Feb2025 00:19:14.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Teleported MandyXMaster687 to Dalej]
 [23Feb2025 00:20:07.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MandyXMaster687: Teleported MandyXMaster687 to Dalej]
 [23Feb2025 00:26:34.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has made the advancement [Choosing Wisely]
+[23Feb2025 00:32:08.204] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2096ms or 41 ticks
+[23Feb2025 00:33:46.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 has made the advancement [Choosing Wisely]
+[23Feb2025 00:40:21.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Disconnected
+[23Feb2025 00:40:21.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[23Feb2025 00:40:21.536] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[23Feb2025 00:41:12.834] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MandyXMaster687 lost connection: Disconnected
+[23Feb2025 00:41:12.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MandyXMaster687 left the game
+[23Feb2025 00:41:12.835] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MandyXMaster687
