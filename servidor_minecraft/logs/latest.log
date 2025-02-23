@@ -1375,3 +1375,71 @@ java.lang.Throwable: null
 [23Feb2025 10:19:38.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Disconnected
 [23Feb2025 10:19:38.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
 [23Feb2025 10:19:38.692] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[23Feb2025 10:23:06.891] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2146ms or 42 ticks
+[23Feb2025 10:25:05.603] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.255.118.128:52529] logged in with entity id 148758 at (-3419.3028388265166, 87.8544089738615, -1659.4255654067115)
+[23Feb2025 10:25:05.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[23Feb2025 10:25:05.656] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[23Feb2025 10:25:05.656] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[23Feb2025 10:25:08.052] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[23Feb2025 10:25:08.052] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[23Feb2025 10:26:28.611] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2020ms or 40 ticks
+[23Feb2025 10:27:57.185] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2042ms or 40 ticks
+[23Feb2025 10:28:38.505] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[23Feb2025 10:28:38.506] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[23Feb2025 10:28:38.506] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[23Feb2025 10:28:38.506] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[23Feb2025 10:28:38.506] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[23Feb2025 10:28:38.506] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[23Feb2025 10:28:38.506] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[23Feb2025 10:28:38.506] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[23Feb2025 10:28:38.506] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[23Feb2025 10:28:38.506] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[23Feb2025 10:28:38.506] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[23Feb2025 10:28:38.506] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[23Feb2025 10:29:49.811] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Feb2025 10:30:22.220] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2023ms or 40 ticks
+[23Feb2025 10:33:38.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax experienced kinetic energy whilst trying to escape Mayan Warrior
+[23Feb2025 10:33:40.129] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:71) ~[Vampirism-1.20.1-1.10.12.jar%23295!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.util.Helper.canBecomeVampire(Helper.java:132) ~[Vampirism-1.20.1-1.10.12.jar%23295!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.effects.SanguinareEffectInstance.m_19552_(SanguinareEffectInstance.java:24) ~[Vampirism-1.20.1-1.10.12.jar%23295!/:1.20.1-1.10.12]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:422) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2259) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[23Feb2025 10:33:41.948] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/35738, l='ServerLevel[world]', x=623.95, y=71.60, z=1221.24, removed=DISCARDED]
+[23Feb2025 10:35:09.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax tried to swim in lava
+[23Feb2025 10:37:56.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax has made the advancement [She clearly doesn't look like that!]
+[23Feb2025 10:40:37.391] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax lost connection: Timed out
+[23Feb2025 10:40:37.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax left the game
+[23Feb2025 10:40:37.392] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client morax
+[23Feb2025 10:41:23.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: morax[/127.207.154.6:40757] logged in with entity id 162810 at (-193.0090348517359, 84.17675927506424, -40.13827375425792)
+[23Feb2025 10:41:23.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax joined the game
+[23Feb2025 10:41:23.985] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[23Feb2025 10:41:23.986] [Server thread/INFO] [Jade/]: Syncing config to morax (ba90b352-0046-3a15-868f-6c2e8cd363f8)
+[23Feb2025 10:41:24.040] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2094ms or 41 ticks
+[23Feb2025 10:41:24.940] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of morax (18)
+[23Feb2025 10:41:24.940] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to morax
+[23Feb2025 10:44:14.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was slain by Deepling Brute
+[23Feb2025 10:48:06.942] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2085ms or 41 ticks
+[23Feb2025 10:49:59.229] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2107ms or 42 ticks
+[23Feb2025 10:50:21.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[23Feb2025 10:50:43.867] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2053ms or 41 ticks
+[23Feb2025 10:51:09.093] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2073ms or 41 ticks
+[23Feb2025 10:51:37.548] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2053ms or 41 ticks
+[23Feb2025 10:52:02.479] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3088ms or 61 ticks
+[23Feb2025 10:52:02.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved too quickly! -8.33669568021196,0.0,-6.2176733913593125
+[23Feb2025 10:52:02.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved too quickly! -8.657337821758574,0.0,-6.456814675642363
+[23Feb2025 10:52:02.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of morax) moved too quickly! -8.977979963305188,0.0,-6.6959559599254135
