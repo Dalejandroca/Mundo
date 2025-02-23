@@ -6908,3 +6908,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [23Feb2025 06:04:52.242] [Server thread/WARN] [de.teamlapen.werewolves.entities.ModEntityEventHandler/]: Could not replace skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
 [23Feb2025 06:04:52.244] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
 [23Feb2025 06:04:52.244] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[23Feb2025 06:07:47.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 06:07:47.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 06:07:47.790] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2003ms or 40 ticks
+[23Feb2025 06:11:10.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1236, y=84, z=853} BlockPos{x=1240, y=84, z=856}
+[23Feb2025 06:11:22.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1233, y=82, z=841} BlockPos{x=1236, y=83, z=842}
+[23Feb2025 06:11:22.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1233, y=82, z=840} BlockPos{x=1236, y=83, z=842}
+[23Feb2025 06:11:22.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1235, y=80, z=835} BlockPos{x=1233, y=80, z=836}
+[23Feb2025 06:12:47.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 06:12:47.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
