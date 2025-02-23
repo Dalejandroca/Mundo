@@ -11052,5 +11052,17 @@
     },
     "done": true
   },
+  "vampirism:hunter/technology": {
+    "criteria": {
+      "advanced": "2025-02-23 12:40:01 +0000"
+    },
+    "done": false
+  },
+  "call_of_yucutan:obtain_both_discs": {
+    "criteria": {
+      "xibalba": "2025-02-23 12:35:48 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
